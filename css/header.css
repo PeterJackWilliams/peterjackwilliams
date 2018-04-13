@@ -1,0 +1,26 @@
+.links {
+    display: flex;
+    justify-content: flex-end;
+    font-size: large;
+}
+.link {
+    margin-left: 20px;
+    color: #999;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-variant-caps: all-petite-caps;
+}
+.headerandlinks {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.header {
+    font-size: -webkit-xxx-large;
+    font-family: sans-serif;
+    font-variant-caps: all-petite-caps;
+}
