@@ -4,6 +4,6 @@
 }
 
 .opacity {
-    opacity: 1
+    opacity:50
     transition: opacity 0.3s ease-in-out;
 }
