@@ -24,3 +24,8 @@
     font-family: sans-serif;
     font-variant-caps: all-petite-caps;
 }
+.abouttext {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    padding: 30;
+    padding-left: 500;
+}
