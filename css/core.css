@@ -4,9 +4,11 @@ body {
 	color: #222;
 }
 .aboutpicture {
+	padding-left: 45;
 	width: 450
 }
 .abouttype {
 	color: #222;
 	font-family: monospace;
+
 }
