@@ -3,5 +3,6 @@
 }
 .abouttext {
     font-family: monospace;
-    text-align: justify;
+    padding-left: 600
+    text-align: justify
 }
