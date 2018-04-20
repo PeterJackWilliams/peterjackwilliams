@@ -1,8 +1,8 @@
 .headshot {
     width: 450;
 }
-.abouttext {
+abouttext {
     font-family: monospace;
-    padding-left: 600;
+    padding-left: 200;
     text-align: justify;
 }
