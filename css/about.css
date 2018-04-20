@@ -2,9 +2,7 @@
     width: 450;
 }
 .abouttext {
-    margin-left: 700;
-}
-.abouttext {
     font-family: monospace;
     padding-left: 600;
+    text-align: justify;
 }
