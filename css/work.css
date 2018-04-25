@@ -10,11 +10,3 @@
     width: 250;
     margin-top: -33px;
 }
-.image {
-    vertical-align: top;
-    display: inline-block;
-    text-align: center;
-}
-.textunderimage {
-    display: block;
-}
