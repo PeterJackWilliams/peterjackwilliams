@@ -2,15 +2,11 @@
     width: 33%;
     padding: 15px;
 }
-
-.opacity {
-    opacity: 0;
-    -webkit-transition: .5s;
-       -moz-transition: .5s;
-        -ms-transition: .5s;
-         -o-transition: .5s;
-            transition: .5s;
+.work {
+    text-align: justify;
+    width: 33%;
 }
-img:hover {
-    opacity: 1;
+.work img {
+    display: block;
+    margin: 0 auto;
 }
