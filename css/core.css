@@ -7,3 +7,11 @@ body {
 	padding-left: 45;
 	width: 450
 }
+.abouttext {
+    margin-left: 470;
+    margin-top: -410;
+    color: #222;
+	font-family: monospace;
+	vertical-align: super;
+	padding-left: 100;
+}
