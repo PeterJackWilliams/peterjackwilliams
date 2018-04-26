@@ -15,7 +15,7 @@ body {
     color: #222;
     font-family: monospace;
     vertical-align: super;
-    font-size: x-large;
+    font-size: initial;
 }
 .aboutheading {
 	color: #222;
