@@ -4,21 +4,31 @@
     padding-bottom: 50;
     
 }
-.textunderimage {
+.hiptext {
     font-family: monospace; 
     text-align: center;
     width: 250;
     margin-top: -33px;
-}
-.hiptext {
     margin: -215;
 }
 .zelahtext {
-
+    font-family: monospace; 
+    text-align: center;
+    width: 250;
+    margin-top: -33px;
+    margin-left: 375;
 }
 .syfctext {
-
+    font-family: monospace; 
+    text-align: center;
+    width: 250;
+    margin-top: -33px;
+    padding-left: 625;
+    padding-top: 185;
 }
 .dtrtext {
-    
+    font-family: monospace; 
+    text-align: center;
+    width: 250;
+    margin-top: -33px;
 }
