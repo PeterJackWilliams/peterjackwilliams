@@ -2,33 +2,22 @@
     width: 33%;
     padding: 15px;
     padding-bottom: 50;
-    
 }
 .hiptext {
     font-family: monospace; 
     text-align: center;
-    width: 250;
-    margin-top: -33px;
     margin: -215;
 }
 .zelahtext {
     font-family: monospace; 
     text-align: center;
-    width: 250;
-    margin-top: -33px;
     margin-left: 375;
 }
 .syfctext {
     font-family: monospace; 
     text-align: center;
-    width: 250;
-    margin-top: -33px;
-    padding-left: 625;
-    padding-top: 185;
 }
 .dtrtext {
     font-family: monospace; 
     text-align: center;
-    width: 250;
-    margin-top: -33px;
 }
