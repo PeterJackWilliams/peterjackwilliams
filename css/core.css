@@ -9,7 +9,8 @@ body {
 }
 .abouttext {
 	margin-left: 586px;
-    margin-right: 300;
+	margin-right: 300;
+	margin-top: -400;
     color: #222;
 	font-family: monospace;
 	vertical-align: super;
