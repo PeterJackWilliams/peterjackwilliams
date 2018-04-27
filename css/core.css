@@ -22,5 +22,7 @@ body {
 	font-family: monospace;
 	vertical-align: super;
 	font-size: xx-large;
-    padding-left: 700;
+	padding-left: 700;
+	padding-bottom: 425;
+    margin-top: -350;
 }
