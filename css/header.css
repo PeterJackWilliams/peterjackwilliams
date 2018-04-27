@@ -24,8 +24,3 @@
     font-family: sans-serif;
     font-variant-caps: all-petite-caps;
 }
-
-/* selected link */
-.active {
-    color: #222;
-}
