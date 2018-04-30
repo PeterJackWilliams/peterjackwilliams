@@ -6,5 +6,8 @@
     font-size: initial;
 }
 .hiptitle {
-    
+    padding-left: 800;
+    padding-top: 50;
+    font-size: x-large;
+    font-family: monospace;
 }
