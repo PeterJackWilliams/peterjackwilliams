@@ -26,14 +26,14 @@ body {
     padding-bottom: 425;
     margin-top: -600;
 }
-.hipsummary {
+.hfilmsummarytext {
     padding-top: 50;
     padding-left: 850;
     padding-right: 150;
     font-family: monospace;
     font-size: initial;
 }
-.hiptitle {
+.filmtitletext {
 	padding-top: 50;
 	padding-left: 850;
 	font-family: monospace;
