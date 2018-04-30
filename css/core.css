@@ -26,6 +26,16 @@ body {
     padding-bottom: 425;
     margin-top: -600;
 }
-.background {
-	color: antiquewhite
+.hipsummary {
+    padding-top: 300;
+    padding-left: 850;
+    padding-right: 150;
+    font-family: monospace;
+    font-size: initial;
+}
+.hiptitle {
+    padding-left: 800;
+    padding-top: 50;
+    font-size: x-large;
+    font-family: monospace;
 }
