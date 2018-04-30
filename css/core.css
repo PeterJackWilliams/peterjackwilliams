@@ -3,6 +3,9 @@
 body {
 	color: #222;
 }
+::backdrop {
+	color: blue
+}
 .aboutpicture {
 	padding-left: 45;
 	width: 650;
@@ -27,15 +30,15 @@ body {
     margin-top: -600;
 }
 .hipsummary {
-    padding-top: 300;
+    padding-top: 50;
     padding-left: 850;
     padding-right: 150;
     font-family: monospace;
     font-size: initial;
 }
 .hiptitle {
-    padding-left: 800;
-    padding-top: 50;
-    font-size: x-large;
-    font-family: monospace;
+	padding-top: 50;
+	padding-left: 850;
+	font-family: monospace;
+	font-size: x-large;
 }
