@@ -36,14 +36,16 @@ body {
 .filmtitletext {
 	padding-top: 50;
 	padding-left: 850;
-	margin-top: -300;
+	margin-top: -450;
 	font-family: monospace;
 	font-size: x-large;
 }
 .videos {
 	margin-left: 92;
+    padding-bottom: 150;
 }
 .screengrabs {
 	margin: 92;
     height: 486;
+    margin-top: 250;
 }
