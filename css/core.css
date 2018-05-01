@@ -47,5 +47,6 @@ body {
 .screengrabs {
 	margin: 92;
     height: 486;
-    margin-top: 250;
+	margin-top: 250;
+	margin-bottom: -80;
 }
