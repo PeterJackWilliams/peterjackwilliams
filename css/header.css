@@ -11,7 +11,7 @@
     font-variant-caps: all-petite-caps;
 }
 .active {
-    color: blue
+    text-decoration-color: blue
 }
 .headerandlinks {
     display: flex;
