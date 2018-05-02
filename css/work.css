@@ -1,8 +1,30 @@
-.image {
-    width: 33%;
-    padding: 15px;
-    padding-bottom: 50;
+.work {
+  max-width: 1366px;
+  margin: 0 auto 0 auto;
+  padding: 0 15px 0 15px;
+  display: flex;
+  flex-wrap: wrap;
 }
+
+.work-item {
+  max-width: 50%;
+  font-family: monospace;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+}
+
+.work-text {
+  padding: 15px 0;
+}
+
+/*
+  .image {
+      width: 33%;
+      padding: 15px;
+      padding-bottom: 50;
+  }
 .hiptext {
     font-family: monospace;
     text-align: center;
@@ -11,19 +33,21 @@
     padding-top: 200px;
 }
 .zelahtext {
-    font-family: monospace; 
+    font-family: monospace;
     text-align: center;
     margin-top: -345;
 }
 .syfctext {
-    font-family: monospace; 
+    font-family: monospace;
     text-align: center;
     padding-left: 900px;
     margin-top: -315;
 }
 .dtrtext {
-    font-family: monospace; 
+    font-family: monospace;
     text-align: center;
     padding-right: 900;
     padding-top: 510;
 }
+*/
+
