@@ -1,13 +1,14 @@
 .work {
   max-width: 1366px;
   margin: 0 auto 0 auto;
-  padding: 0 15px 0 15px;
+  padding: 0 20px 0 20px;
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .work-item {
-  max-width: 50%;
+  max-width: 30%;
   font-family: monospace;
   text-align: center;
   text-decoration: none;
