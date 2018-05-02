@@ -15,14 +15,14 @@
   color: black;
   font-size: 16px;
   opacity: 0.5;
-    filter: alpha(opacity=50);
+  filter: alpha(opacity=50);
 }
 
 .work-text {
   padding: 15px 0;
 }
 
-img:hover {
+.imghover {
     opacity: 50.0;
     filter: alpha(opacity=100);
 }
