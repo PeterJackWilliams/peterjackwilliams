@@ -25,3 +25,23 @@
 }
 
 
+/* new */
+
+.work-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.work-left {
+  width: 70%;
+}
+
+.work-right {
+  width: 30%;
+}
+
+.work-iframe {
+  width: 560px;
+  height: 315px;
+}
