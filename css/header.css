@@ -7,20 +7,14 @@
     margin-left: 20px;
     color: #999;
     text-decoration: none;
-    font-family: sans-serif;
     font-variant-caps: all-petite-caps;
 }
 .headerandlinks {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 54px;
-    padding-bottom: 40px;
-    padding-left: 90px;
-    padding-right: 50px;
 }
 .header {
     font-size: -webkit-xxx-large;
-    font-family: sans-serif;
     font-variant-caps: all-petite-caps;
 }

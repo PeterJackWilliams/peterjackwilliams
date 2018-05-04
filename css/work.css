@@ -9,7 +9,6 @@
 
 .work-item {
   max-width: 30%;
-  font-family: monospace;
   text-align: center;
   text-decoration: none;
   color: black;
@@ -21,39 +20,8 @@
 }
 
 .imghover {
-    opacity: 0.5;
-    filter: alpha(opacity=100);
+  opacity: 0.5;
+  filter: alpha(opacity=100);
 }
 
-/*
-  .image {
-      width: 33%;
-      padding: 15px;
-      padding-bottom: 50;
-  }
-.hiptext {
-    font-family: monospace;
-    text-align: center;
-    margin: -215;
-    padding-right: 900px;
-    padding-top: 200px;
-}
-.zelahtext {
-    font-family: monospace;
-    text-align: center;
-    margin-top: -345;
-}
-.syfctext {
-    font-family: monospace;
-    text-align: center;
-    padding-left: 900px;
-    margin-top: -315;
-}
-.dtrtext {
-    font-family: monospace;
-    text-align: center;
-    padding-right: 900;
-    padding-top: 510;
-}
-*/
 

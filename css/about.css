@@ -1,3 +1,8 @@
-.aboutpicture {
-    width: 450
+.about-inner {
+  display: flex;
+}
+
+.about-image {
+  align-self: center;
+  max-width: 500px;
 }
