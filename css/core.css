@@ -352,9 +352,3 @@ h1, h2, h3, h4, h5, h6 {
   color: rgb(32, 32, 32);
 
 }
-.container {
-  max-width: 1366px;
-  position: relative;
-  text-align: center;
-  display: inline;
-}
