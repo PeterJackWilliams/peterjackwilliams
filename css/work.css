@@ -21,7 +21,7 @@
 
 /* new */
 
-/*.work-container {
+.work-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -38,4 +38,4 @@
 .work-iframe {
   width: 560px;
   height: 315px;
-}*/
+}
