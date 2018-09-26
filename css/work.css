@@ -8,11 +8,12 @@
 }
 
 .work-item {
-  max-width: 30%;
-  text-align: center;
-  text-decoration: none;
-  color: black;
-  font-size: 16px;
+  width: 600px;
+  max-width: 70%;
+  margin: 10px;
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
 }
 
 .work-text {

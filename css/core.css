@@ -32,7 +32,108 @@ body {
   max-width: 1366px;
   margin: 0 auto 0 auto;
   padding: 0 40px 0 40px;
+  position: relative;
 }
+/* styles */
+
+.ellipsis {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+  height: 70px;
+  overflow: hidden;
+}
+
+.text-large {
+  font-size: 18px;
+}
+
+.text-small {
+  font-size: 12px;
+}
+
+.opaque {
+  opacity: 0.6;
+}
+
+.filmsummarytext {
+  padding-top: 50;
+  padding-left: 850;
+  padding-right: 150;
+  font-size: initial;
+}
+
+.filmtitletext {
+  padding-top: 50;
+  padding-left: 850;
+  margin-top: -450;
+  font-size: x-large;
+}
+
+.videos {
+  margin-left: 92;
+  padding-bottom: 150;
+}
+
+.screengrabs {
+  margin: 92;
+  height: 486;
+  margin-top: 250;
+  margin-bottom: -80;
+  margin-left: 250;
+}
+
+.lastpicmargin {
+  margin-bottom: 250;
+}
+
+.footer {
+  border-top: 1px solid #494C4E;
+  background-color: rgb(241, 241, 241);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.abouttext {
+  white-space: pre-line;
+}
+
+/* fade style */
+
+.fadeintext {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: -210px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.container:hover .work-item {
+  opacity: 0.2;
+  transition: opacity .25s ease-in-out;
+  -moz-transition: opacity .25s ease-in-out;
+  -webkit-transition: opacity .25s ease-in-out;
+}
+.container:hover .fadeintext {
+  opacity: 1;
+}
+.imagetitle {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  letter-spacing: 10px;
+  -webkit-font-smoothing: antialiased;
+  color: rgb(32, 32, 32);
+}
+.imagesubheading {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+  letter-spacing: 20px;
+  -webkit-font-smoothing: antialiased;
+  color: rgb(32, 32, 32);
+}
+
+/* style sheet */
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'futura-bold';
@@ -253,102 +354,3 @@ h1, h2, h3, h4, h5, h6 {
   transform: translateY(-50%);
 }
 
-/* styles */
-
-.ellipsis {
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  text-overflow: ellipsis;
-  height: 70px;
-  overflow: hidden;
-}
-
-.text-large {
-  font-size: 18px;
-}
-
-.text-small {
-  font-size: 12px;
-}
-
-.opaque {
-  opacity: 0.6;
-}
-
-.filmsummarytext {
-  padding-top: 50;
-  padding-left: 850;
-  padding-right: 150;
-  font-size: initial;
-}
-
-.filmtitletext {
-  padding-top: 50;
-  padding-left: 850;
-  margin-top: -450;
-  font-size: x-large;
-}
-
-.videos {
-  margin-left: 92;
-  padding-bottom: 150;
-}
-
-.screengrabs {
-  margin: 92;
-  height: 486;
-  margin-top: 250;
-  margin-bottom: -80;
-  margin-left: 250;
-}
-
-.lastpicmargin {
-  margin-bottom: 250;
-}
-
-.footer {
-  border-top: 1px solid #494C4E;
-  background-color: rgb(241, 241, 241);
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
-.abouttext {
-  white-space: pre-line;
-}
-
-/* fade style */
-
-.fadeintext {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: -210px;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-.container:hover .work-item {
-  opacity: 0.2;
-  transition: opacity .25s ease-in-out;
-  -moz-transition: opacity .25s ease-in-out;
-  -webkit-transition: opacity .25s ease-in-out;
-}
-.container:hover .fadeintext {
-  opacity: 1;
-}
-.imagetitle {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 30px;
-  letter-spacing: 10px;
-  -webkit-font-smoothing: antialiased;
-  color: rgb(32, 32, 32);
-}
-.imagesubheading {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 18px;
-  letter-spacing: 20px;
-  -webkit-font-smoothing: antialiased;
-  color: rgb(32, 32, 32);
-
-}
