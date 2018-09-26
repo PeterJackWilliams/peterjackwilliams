@@ -67,3 +67,6 @@
   -webkit-font-smoothing: antialiased;
   color: rgb(32, 32, 32);
 }
+.htmlstyle {
+  text-decoration: none;
+}
