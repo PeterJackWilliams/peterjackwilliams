@@ -19,4 +19,5 @@
     font-size: -webkit-xxx-large;
     font-variant-caps: all-petite-caps;
     -webkit-font-smoothing: antialiased;
+    letter-spacing: 7px;
 }

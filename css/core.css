@@ -31,7 +31,6 @@ body {
 .container {
   max-width: 820px;
   margin: 0 auto 0 auto;
-  padding: 0 40px 0 40px;
   position: relative;
   display: initial;
 }
@@ -152,7 +151,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .prxl, .phxl, .paxl {
-  padding-right: 40px;
+  padding-right: 192px;
 }
 
 .pbxs, .pvxs, .paxs {
@@ -192,7 +191,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .plxl, .phxl, .paxl {
-  padding-left: 40px;
+  padding-left: 105px;
 }
 
 .mtxs, .mvxs, .maxs {

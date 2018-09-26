@@ -5,4 +5,5 @@
 .about-image {
   align-self: center;
   max-width: 500px;
+  border-radius: 75px;
 }
