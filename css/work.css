@@ -1,12 +1,8 @@
 .work {
-  max-width: 1366px;
-  margin: 0 auto 0 auto;
-  padding: 0 40px 0 40px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  margin: 40px 0px 80px;
+  text-align: center;
+  display: list-item;
 }
-
 .work-item {
   width: 600px;
   max-width: 70%;
@@ -15,20 +11,17 @@
   transition: .5s ease;
   backface-visibility: hidden;
 }
-
 .work-text {
   padding: 15px 0;
 }
-
 .imghover {
   opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
-
 /* new */
 
-.work-container {
+/*.work-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -45,4 +38,4 @@
 .work-iframe {
   width: 560px;
   height: 315px;
-}
+}*/
