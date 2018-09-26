@@ -34,6 +34,14 @@ body {
   position: relative;
   display: initial;
 }
+.a {
+  color: #999;
+  transition: all 0.2s linear;
+  }
+
+a:hover, a:focus {
+  color:#bebebe;
+  }
 
 /* styles */
 
