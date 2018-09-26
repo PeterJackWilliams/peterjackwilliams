@@ -40,7 +40,7 @@
   transition: .5s ease;
   opacity: 0;
   position: absolute;
-  top: 200px;
+  top: 126px;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -55,14 +55,14 @@
 }
 .imagetitle {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 30px;
+  font-size: 24px;
   letter-spacing: 10px;
   -webkit-font-smoothing: antialiased;
   color: rgb(32, 32, 32);
 }
 .imagesubheading {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 18px;
+  font-size: 17px;
   letter-spacing: 20px;
   -webkit-font-smoothing: antialiased;
   color: rgb(32, 32, 32);
