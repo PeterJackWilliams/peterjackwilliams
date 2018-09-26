@@ -13,8 +13,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    -webkit-font-smoothing: antialiased;
 }
 .header {
     font-size: -webkit-xxx-large;
     font-variant-caps: all-petite-caps;
+    -webkit-font-smoothing: antialiased;
 }

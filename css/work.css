@@ -13,6 +13,7 @@
 }
 .work-text {
   padding: 15px 0;
+  -webkit-font-smoothing: antialiased;
 }
 
 /* new */
