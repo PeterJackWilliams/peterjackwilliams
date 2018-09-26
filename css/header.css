@@ -3,6 +3,8 @@
     justify-content: flex-end;
     font-size: 25px;
     position: relative;
+    max-width: 98%;
+    z-index: 1;
 }
 .link {
     margin-left: 40px;
@@ -22,4 +24,6 @@
     -webkit-font-smoothing: antialiased;
     letter-spacing: 7px;
     position: relative;
+    max-width: 100%;
+    z-index: 2;
 }
