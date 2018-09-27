@@ -23,10 +23,14 @@
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 0px 70px 0px 70;
+  position: relative;
 }
 
 .work-left {
-  width: 70%;
+  max-width: 70%;
+  width: 600px;
+  margin-top: 345px;
+  position: absolute;
 }
 
 .work-right {
@@ -36,6 +40,7 @@
 .work-iframe {
   width: 560px;
   height: 315px;
+  max-width: 100%;
 }
 .fadeintext {
   transition: .5s ease;
