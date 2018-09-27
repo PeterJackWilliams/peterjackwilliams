@@ -3,14 +3,13 @@
     justify-content: flex-end;
     font-size: 25px;
     position: relative;
-    max-width: 98%;
-    z-index: 1;
 }
 .link {
     margin-left: 40px;
     color: rgb(90, 90, 90);
     text-decoration: none;
     font-variant-caps: all-petite-caps;
+    font-size: 2.7vw;
 }
 .headerandlinks {
     display: flex;
@@ -19,7 +18,7 @@
     -webkit-font-smoothing: antialiased;
 }
 .header {
-    font-size: 50px;
+    font-size: 5vw;
     font-variant-caps: all-petite-caps;
     -webkit-font-smoothing: antialiased;
     letter-spacing: 7px;
