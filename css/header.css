@@ -19,7 +19,7 @@
     -webkit-font-smoothing: antialiased;
 }
 .header {
-    font-size: -webkit-xxx-large;
+    font-size: 50px;
     font-variant-caps: all-petite-caps;
     -webkit-font-smoothing: antialiased;
     letter-spacing: 7px;
