@@ -32,6 +32,12 @@
   margin-top: 345px;
   position: absolute;
 }
+.work-left-items {
+  margin-bottom: 20px;
+  width: 650px;
+  max-width: 100%;
+  margin: 10px;
+}
 
 .work-right {
   width: 30%;
