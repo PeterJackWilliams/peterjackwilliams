@@ -25,7 +25,11 @@
     display: flex;
   }
 }
-
+@media screen and (max-width: 900px) and (min-width: 600px) {
+  .work-left {
+    margin: 515px;
+  }
+}
 body {
   color: #222;
   background-color: rgb(251, 251, 251);
