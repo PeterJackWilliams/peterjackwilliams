@@ -20,7 +20,7 @@
   font-style: normal;
 }
 @media screen and (max-width: 600px) {
-  .work-item, .headerandlinks, .workright, .workleft {
+  .container, .headerandlinks {
     flex-direction: column;
   }
 }
