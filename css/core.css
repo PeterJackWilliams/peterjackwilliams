@@ -19,6 +19,11 @@
   font-weight: normal;
   font-style: normal;
 }
+@media screen and (max-width: 600px) {
+  .work-item {
+    flex-direction: column;
+  }
+}
 
 body {
   color: #222;
