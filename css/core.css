@@ -32,7 +32,6 @@
 @media screen and (min-width: 600px) {
   .work-right {
     max-width: 55%;
-    display: contents;
   }
 }
 /* If screen size is 600px wide, or less */
