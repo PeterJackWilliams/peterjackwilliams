@@ -35,7 +35,7 @@
 }
 .work-left-items {
   margin-bottom: 20px;
-  width: 650px;
+  width: 640px;
   max-width: 100%;
   margin: 10px;
 }
@@ -43,6 +43,7 @@
 .work-right {
   max-width: 52%;
   font-size: 2vw;
+  white-space: pre-line;
 }
 
 .work-iframe {
