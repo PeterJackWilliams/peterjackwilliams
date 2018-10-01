@@ -29,17 +29,17 @@
     font-variant-caps: all-petite-caps;
     -webkit-font-smoothing: antialiased;
     letter-spacing: 7px;
-    font-size: 38px;
+    /*font-size: 38px;*/
 }
 .filmdescription {
     -webkit-font-smoothing: antialiased;
     letter-spacing: 0px;
     font-family: futura;
-    font-size: 22px;
+    /*font-size: 22px;*/
 }
 .filmdate {
     -webkit-font-smoothing: antialiased;
     letter-spacing: 7px;
     font-family: futura;
-    font-size: 18px;
+    /*font-size: 18px;*/
 }
