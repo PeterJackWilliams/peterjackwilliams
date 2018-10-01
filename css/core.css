@@ -42,6 +42,13 @@
   }
 }
 
+/* If screen size is 600px wide, or less */
+@media screen and (max-width: 768px) {
+  .work-iframe {
+    justify-content: center;
+  }
+}
+
 /* If screen size is more than 600px wide */
 @media screen and (min-width: 1200px) {
   .work-left {
