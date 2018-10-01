@@ -32,23 +32,25 @@
 @media screen and (min-width: 600px) {
   .work-right {
     max-width: 55%;
+    display: contents;
   }
 }
 /* If screen size is 600px wide, or less */
 @media screen and (max-width: 600px) {
   .work-right {
     max-width: 100%;
+    display: inline-block;
   }
 }
 
 /* If screen size is more than 600px wide */
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 1200px) {
   .work-left {
     margin-top: 315px;
   }
 }
 /* If screen size is 600px wide, or less */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1200px) {
   .work-left {
     margin-top: 515px;
   }
