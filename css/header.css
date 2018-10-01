@@ -10,6 +10,7 @@
     text-decoration: none;
     font-variant-caps: all-petite-caps;
     font-size: 2.7vw;
+    font-family: proxima-nova;
 }
 .headerandlinks {
     display: flex;
