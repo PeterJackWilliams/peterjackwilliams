@@ -107,6 +107,12 @@
     top: -97px;
   }
 }
+/* If screen size is more than 600px wide */
+@media screen and (min-width: 376px) {
+  .fadeintext {
+    top: -193px;
+  }
+}
 
 /* STYLES */
 
