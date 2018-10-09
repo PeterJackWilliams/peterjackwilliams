@@ -43,59 +43,59 @@
   }
 }
 
-/* If screen size is 600px wide, or less */
+/* If screen size is 768px wide, or less */
 @media screen and (max-width: 768px) {
   .work-iframe {
     justify-content: center;
   }
 }
 
-/* If screen size is more than 600px wide */
+/* If screen size is more than 1200px wide */
 @media screen and (min-width: 1200px) {
   .work-left {
     margin-top: 315px;
   }
 }
-/* If screen size is 600px wide, or less */
+/* If screen size is 1200px wide, or less */
 @media screen and (max-width: 1200px) {
   .work-left {
     margin-top: 515px;
   }
 }
 
-/* If screen size is more than 600px wide */
+/* If screen size is more than 1285px wide */
 @media screen and (min-width: 1285px) {
   .filmtitle {
     font-size: 38px;
   }
 }
-/* If screen size is 600px wide, or less */
+/* If screen size is 1285px wide, or less */
 @media screen and (max-width: 1285px) {
   .filmtitle {
     font-size: 32px;
   }
 }
 
-/* If screen size is more than 600px wide */
+/* If screen size is more than 1285px wide */
 @media screen and (min-width: 1285px) {
   .filmdescription {
     font-size: 22px;
   }
 }
 
-/* If screen size is 600px wide, or less */
+/* If screen size is 1285px wide, or less */
 @media screen and (max-width: 1285px) {
   .filmdescription {
     font-size: 18px;
   }
 }
-/* If screen size is more than 600px wide */
+/* If screen size is more than 1285px wide */
 @media screen and (min-width: 1285px) {
   .filmdate {
     font-size: 18px;
   }
 }
-/* If screen size is 600px wide, or less */
+/* If screen size is 1285px wide, or less */
 @media screen and (max-width: 1285px) {
   .filmdate {
     font-size: 14px;
@@ -107,13 +107,24 @@
     top: -97px;
   }
 }
-/* If screen size is more than 600px wide */
+/* If screen size is more than 376px wide */
 @media screen and (min-width: 376px) {
   .fadeintext {
     top: -193px;
   }
 }
-
+/* If screen size is 376px wide, or less */
+@media screen and (max-width: 376px) {
+  .buttons {
+    padding-right: 50px;
+  }
+}
+/* If screen size is more than 376px wide */
+@media screen and (min-width: 376px) {
+  .buttons {
+    padding-right: 210px;
+  }
+}
 /* STYLES */
 
 body {
