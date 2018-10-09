@@ -150,21 +150,17 @@ a:hover, a:focus {
   overflow: hidden;
   -webkit-font-smoothing: antialiased;
 }
-
 .text-large {
   font-size: 18px;
   -webkit-font-smoothing: antialiased;
 }
-
 .text-small {
   font-size: 12px;
   -webkit-font-smoothing: antialiased;
 }
-
 .opaque {
   opacity: 0.6;
 }
-
 .filmsummarytext {
   padding-top: 50;
   padding-left: 850;
@@ -172,7 +168,6 @@ a:hover, a:focus {
   font-size: initial;
   -webkit-font-smoothing: antialiased;
 }
-
 .filmtitletext {
   padding-top: 50;
   padding-left: 850;
@@ -180,12 +175,10 @@ a:hover, a:focus {
   font-size: x-large;
   -webkit-font-smoothing: antialiased;
 }
-
 .videos {
   margin-left: 92;
   padding-bottom: 150;
 }
-
 .screengrabs {
   margin: 92;
   height: 486;
@@ -193,17 +186,23 @@ a:hover, a:focus {
   margin-bottom: -80;
   margin-left: 250;
 }
-
 .lastpicmargin {
   margin-bottom: 250;
 }
-
+.abouttext {
+  white-space: pre-line;
+  -webkit-font-smoothing: antialiased;
+}
 .footer {
   border-top: 1px solid #494C4E;
   background-color: rgb(241, 241, 241);
   position: fixed;
   bottom: 0;
   width: 100%;
+}
+.footertext {
+  font-size: small;
+  -webkit-font-smoothing: antialiased;
 }
 .buttons {
   position: relative;
@@ -222,10 +221,7 @@ a:hover, a:focus {
   margin-left: 10%;
   display: flex;
 }
-.abouttext {
-  white-space: pre-line;
-  -webkit-font-smoothing: antialiased;
-}
+
 
 
 /* style sheet */
