@@ -213,9 +213,11 @@ a:hover, a:focus {
 }
 .buttons {
   position: relative;
-  margin-top: -17px;
+  margin-top: -37px;
   font-size: x-large;
   display: inline-flex;
+  float: right;
+  padding-right: 210px;
 }
 .fa {
   color: dimgrey;
