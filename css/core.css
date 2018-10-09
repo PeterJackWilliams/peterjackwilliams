@@ -205,6 +205,23 @@ a:hover, a:focus {
   bottom: 0;
   width: 100%;
 }
+.buttons {
+  position: relative;
+  margin-top: -17px;
+  font-size: x-large;
+  display: inline-flex;
+}
+.fa {
+  color: dimgrey;
+  text-decoration: none;
+}
+.styling {
+  justify-content: space-between;
+  padding: 14px 3px 0px;
+  margin-right: 10%;
+  margin-left: 10%;
+  display: flex;
+}
 .abouttext {
   white-space: pre-line;
   -webkit-font-smoothing: antialiased;
