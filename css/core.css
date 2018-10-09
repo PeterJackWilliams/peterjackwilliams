@@ -204,6 +204,7 @@ a:hover, a:focus {
   white-space: pre-line;
   -webkit-font-smoothing: antialiased;
 }
+/* footer */
 .footer {
   border-top: 1px solid #494C4E;
   background-color: rgb(241, 241, 241);
@@ -213,11 +214,6 @@ a:hover, a:focus {
   height: 45;
   z-index: 3;
 }
-  /* position: fixed;
-  bottom: 0;
-  width: 100%;
-}*/
-
 .footertext {
   font-size: small;
   -webkit-font-smoothing: antialiased;
@@ -228,7 +224,6 @@ a:hover, a:focus {
   font-size: x-large;
   display: inline-flex;
   float: right;
-  padding-right: 210px;
 }
 .fa {
   color: dimgrey;
