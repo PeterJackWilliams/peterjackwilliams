@@ -22,6 +22,19 @@
 
 /* MEDIA QUIRES */
 
+/* If screen size is 376px wide, or less */
+@media screen and (max-width: 376px) {
+  .work-item {
+    max-width: 70%
+  }
+}
+/* if screen size is 377px or more */
+@media screen and (min-width: 377px) {
+  .work-item {
+    height: 350px; 
+  }
+}
+
 /* If screen size is 600px wide, or less */
 @media screen and (max-width: 600px) {
   .container, .headerandlinks {
