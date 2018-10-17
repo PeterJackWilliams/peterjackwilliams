@@ -4,22 +4,21 @@
   display: list-item;
 }
 .work-item {
+  width: 600px;
   opacity: 1;
   transition: .5s ease;
   backface-visibility: hidden;
 }
 /* If screen size is 375px wide, or less */
-@media screen and (max-height: 375px) {
+@media screen and (max-height: 376px) {
   .work-item {
-    width: 600px;
-    max-width: 70%; 
+    height: 350px; 
   }
 }
 /* if screen size is 376px or more */
-@media screen and (min-height: 376px) {
+@media screen and (min-height: 377px) {
   .work-item {
-    width: 600px;
-    height: 350px;
+    max-width: 70%
   }
 }
 .work-text {
