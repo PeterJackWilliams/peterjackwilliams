@@ -16,7 +16,7 @@
   }
 }
 /* if screen size is 376px or more */
-@media screen and (max-height: 376px) {
+@media screen and (min-height: 376px) {
   .work-item {
     width: 600px;
     max-width: 70%; 
