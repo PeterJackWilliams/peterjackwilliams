@@ -12,14 +12,14 @@
 @media screen and (max-height: 375px) {
   .work-item {
     width: 600px;
-    height: 350px;
+    max-width: 70%; 
   }
 }
 /* if screen size is 376px or more */
 @media screen and (min-height: 376px) {
   .work-item {
     width: 600px;
-    max-width: 70%; 
+    height: 350px;
   }
 }
 .work-text {
