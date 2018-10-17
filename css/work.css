@@ -1,5 +1,5 @@
 .work {
-  margin: 40px 0px 80px;
+  margin: 40px 0px 150px;
   text-align: center;
   display: list-item;
 }
@@ -12,6 +12,7 @@
   opacity: 1;
   transition: .5s ease;
   backface-visibility: hidden;
+  margin: 10px;
 }
 
 /* new */
