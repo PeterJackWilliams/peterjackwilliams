@@ -46,8 +46,8 @@
   /* If screen size is more than 768px wide */
   @media screen and (min-width: 768px) {
     .header {
-    font-size: 55px;
-    letter-spacing: 7px;
+    font-size: 50px;
+    letter-spacing: 5px;
     }
   }
 
