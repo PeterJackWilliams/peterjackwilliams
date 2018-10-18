@@ -62,7 +62,7 @@
 /* If screen size is more than 768px wide */
 @media screen and (min-width: 768px) {
   .about-inner {
-    text-align: unset;
+    text-align: center;
   }
 }
 
@@ -71,7 +71,7 @@
 /* If screen size is 1285px wide, or less */
 @media screen and (max-width: 1285px) {
   .about-inner {
-    text-align: unset;
+    text-align: center;
   }
 }
 /* If screen size is more than 1285px wide */
