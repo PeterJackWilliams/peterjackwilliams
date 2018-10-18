@@ -139,6 +139,7 @@
     padding-right: 210px;
   }
 }
+
 /* STYLES */
 
 body {
@@ -163,8 +164,6 @@ body {
 a:hover, a:focus {
   color:#bebebe;
   }
-
-/* styles */
 
 .ellipsis {
   display: -webkit-box;
@@ -213,10 +212,6 @@ a:hover, a:focus {
 }
 .lastpicmargin {
   margin-bottom: 250;
-}
-.abouttext {
-  white-space: pre-line;
-  -webkit-font-smoothing: antialiased;
 }
 /* footer */
 .footer {
@@ -328,7 +323,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .plm, .phm, .pam {
-  padding-left: 43px;
+  padding-left: 40px;
 }
 
 .pll, .phl, .pal {
@@ -388,7 +383,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mbm, .mvm, .mam {
-  margin-bottom: 20px;
+  margin-bottom: -12px;
 }
 
 .mbl, .mvl, .mal {
