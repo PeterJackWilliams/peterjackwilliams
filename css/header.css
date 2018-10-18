@@ -23,24 +23,6 @@
     -webkit-font-smoothing: antialiased;
     position: relative;
 }
-.filmtitle {
-    font-variant-caps: all-petite-caps;
-    -webkit-font-smoothing: antialiased;
-    letter-spacing: 7px;
-    /*font-size: 38px;*/
-}
-.filmdescription {
-    -webkit-font-smoothing: antialiased;
-    letter-spacing: 0px;
-    font-family: futura;
-    /*font-size: 22px;*/
-}
-.filmdate {
-    -webkit-font-smoothing: antialiased;
-    letter-spacing: 7px;
-    font-family: futura;
-    /*font-size: 18px;*/
-}
 
 /* 376 */
 
@@ -54,20 +36,13 @@
   /* If screen size is more than 376px wide */
   @media screen and (min-width: 376px) {
     .header {
-    font-size: 55px;
-    letter-spacing: 7px;
+    font-size: 47px;
+    letter-spacing: 4px;
     }
   }
 
 /* 768 */
 
-  /* If screen size is 768px wide, or less */
-@media screen and (max-width: 768px) {
-    .header {
-    font-size: 47px;
-    letter-spacing: 4px;
-    }
-  }
   /* If screen size is more than 768px wide */
   @media screen and (min-width: 768px) {
     .header {
@@ -78,13 +53,6 @@
 
 /* 1285 */
 
-  /* If screen size is 1285px wide, or less */
-@media screen and (max-width: 1285px) {
-    .header {
-    font-size: 77px;
-    letter-spacing: 7px;
-    }
-  }
   /* If screen size is more than 1285px wide */
   @media screen and (min-width: 1285px) {
     .header {
