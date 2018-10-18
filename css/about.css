@@ -20,6 +20,7 @@
 @media screen and (max-width: 376px) {
   .about-inner {
     display: inline-block;
+    padding: 0px 0px 0px 0px;
   }
 }
 /* If screen size is more than 376px wide */
@@ -42,13 +43,13 @@
 }
 /* If screen size is 376px wide, or less */
 @media screen and (max-width: 376px) {
-  .abouttitle .abouttext {
+  .abouttitle, .abouttext {
     text-align: center;
   }
 }
 /* If screen size is more than 376px wide */
 @media screen and (min-width: 376px) {
-  .abouttitle .abouttext {
+  .abouttitle, .abouttext {
     text-align: unset;
   }
 }
