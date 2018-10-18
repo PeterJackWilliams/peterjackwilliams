@@ -41,6 +41,9 @@
     font-family: futura;
     /*font-size: 18px;*/
 }
+
+/* 376 */
+
 /* If screen size is 376px wide, or less */
 @media screen and (max-width: 376px) {
     .header {
@@ -52,6 +55,40 @@
   @media screen and (min-width: 376px) {
     .header {
     font-size: 55px;
+    letter-spacing: 7px;
+    }
+  }
+
+/* 768 */
+
+  /* If screen size is 768px wide, or less */
+@media screen and (max-width: 768px) {
+    .header {
+    font-size: 47px;
+    letter-spacing: 4px;
+    }
+  }
+  /* If screen size is more than 768px wide */
+  @media screen and (min-width: 768px) {
+    .header {
+    font-size: 55px;
+    letter-spacing: 7px;
+    }
+  }
+
+/* 1285 */
+
+  /* If screen size is 1285px wide, or less */
+@media screen and (max-width: 1285px) {
+    .header {
+    font-size: 77px;
+    letter-spacing: 7px;
+    }
+  }
+  /* If screen size is more than 1285px wide */
+  @media screen and (min-width: 1285px) {
+    .header {
+    font-size: 77px;
     letter-spacing: 7px;
     }
   }
