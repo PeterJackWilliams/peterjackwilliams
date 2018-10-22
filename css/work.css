@@ -24,7 +24,6 @@
   position: relative;
   margin: 0px 60px;
 }
-
 .work-left {
   text-align: center;
   padding-top: 140px;
@@ -36,15 +35,12 @@
   max-width: 100%;
   margin: 10px;
 }
-
 .work-right {
   white-space: pre-line;
 }
-
 .work-iframe {
   width: 560px;
   height: 315px;
-  max-width: 100%;
 }
 .fadeintext {
   transition: .5s ease;
@@ -82,15 +78,22 @@
 
 /* media query */
 
+/* 375 */
+
 /* If screen size is 375px wide, or less */
 @media screen and (max-width: 375px) {
   .work-iframe {
-    
+    max-width: 90%;
   }
 }
 /* If screen size is 376px or more */
 @media screen and (min-width: 376px) {
   .work-iframe {
-    
+    max-width: 100%;
   }
 }
+
+/* 768 */
+
+
+/* 1285 */
