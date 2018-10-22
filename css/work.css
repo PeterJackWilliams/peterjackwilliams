@@ -14,9 +14,6 @@
   backface-visibility: hidden;
   margin: 10px;
 }
-
-/* new */
-
 .work-container {
   display: inline-flex;
   flex-wrap: wrap;
@@ -91,9 +88,9 @@
     max-width: 100%;
   }
 }
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 375px) {
   .work-container {
-   margin: 0px
+   margin: 0px;
   }
 }
 @media screen and (min-width: 376px) {
