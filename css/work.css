@@ -22,7 +22,6 @@
   flex-wrap: wrap;
   justify-content: space-between;
   position: relative;
-  margin: 0px 60px;
 }
 .work-left {
   text-align: center;
@@ -92,7 +91,16 @@
     max-width: 100%;
   }
 }
-
+@media screen and (max-width: 376px) {
+  .work-container {
+   
+  }
+}
+@media screen and (min-width: 376px) {
+  .work-container {
+    margin: 0px 60px;
+  }
+}
 /* 768 */
 
 
