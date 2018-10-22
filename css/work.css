@@ -82,75 +82,15 @@
 
 /* media query */
 
-/* If screen size is more than 600px wide 
-@media screen and (min-width: 600px) {
-  .work-right {
-    max-width: 50%;
+/* If screen size is 375px wide, or less */
+@media screen and (max-width: 375px) {
+  . {
+    
   }
 }
-/* If screen size is 600px wide, or less
-@media screen and (max-width: 600px) {
-  .work-right {
-    max-width: 100%;
-    display: inline-block;
+/* If screen size is 376px or more */
+@media screen and (min-width: 376px) {
+  . {
+    
   }
 }
-
-If screen size is 768px wide, or less
-@media screen and (max-width: 768px) {
-  .work-iframe {
-    justify-content: center;
-  }
-}
-If screen size is more than 1200px wide
-@media screen and (min-width: 1200px) {
-  .work-left {
-    margin-top: 100px;
-  }
-}
-
-If screen size is 1200px wide, or less
-@media screen and (max-width: 1200px) {
-  .work-left {
-    margin-top: 24px;
-  }
-}
-
-If screen size is more than 1285px wide
-@media screen and (min-width: 1285px) {
-  .filmtitle {
-    font-size: 38px;
-  }
-}
-If screen size is 1285px wide, or less
-@media screen and (max-width: 1285px) {
-  .filmtitle {
-    font-size: 32px;
-  }
-}
-
-If screen size is more than 1285px wide
-@media screen and (min-width: 1285px) {
-  .filmdescription {
-    font-size: 22px;
-  }
-}
-
-If screen size is 1285px wide, or less 
-@media screen and (max-width: 1285px) {
-  .filmdescription {
-    font-size: 18px;
-  }
-}
-If screen size is more than 1285px wide
-@media screen and (min-width: 1285px) {
-  .filmdate {
-    font-size: 18px;
-  }
-}
-If screen size is 1285px wide, or less
-@media screen and (max-width: 1285px) {
-  .filmdate {
-    font-size: 14px;
-  }
-}*/
