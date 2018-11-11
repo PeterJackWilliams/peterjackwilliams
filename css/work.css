@@ -33,6 +33,7 @@
 }
 .work-right {
   white-space: pre-line;
+  position: absolute;
 }
 .work-iframe {
   width: 560px;
@@ -98,7 +99,40 @@
     margin: 0px 60px;
   }
 }
+@media screen and (min-width: 376px) {
+  .work-right {
+    text-align: center;
+    margin: 40px 10px 0px 10px;
+  }
+}
+@media screen and (min-width: 376px) {
+  .filmtitle {
+    font-size: 38px;
+  }
+}
 /* 768 */
 
+@media screen and (min-width: 768px) {
+  .work-right {
+    text-align: center;
+    margin-top: 40px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .filmtitle {
+    font-size: 38px;
+  }
+}
 
-/* 1285 */
+/* 1366 */
+
+@media screen and (min-width: 1366px) {
+  .work-right {
+    margin: 0px 30px 0px 740px;
+  }
+}
+@media screen and (min-width: 1366px) {
+  .filmtitle {
+    font-size: 38px;
+  }
+}
