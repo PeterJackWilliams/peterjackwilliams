@@ -79,13 +79,11 @@
 @media screen and (max-width: 375px) {
   .work-iframe {
     max-width: 90%;
-    margin-left: 20px;
   }
 }
 @media screen and (min-width: 375px) {
   .work-iframe {
     max-width: 100%;
-    margin-left: 20px;
   }
 }
 @media screen and (max-width: 375px) {
