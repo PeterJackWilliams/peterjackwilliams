@@ -76,16 +76,16 @@
 
 /* 375 */
 
-/* If screen size is 375px wide, or less */
 @media screen and (max-width: 375px) {
   .work-iframe {
     max-width: 90%;
+    margin-left: 20px;
   }
 }
-/* If screen size is 376px or more */
 @media screen and (min-width: 376px) {
   .work-iframe {
     max-width: 100%;
+    margin-left: 20px;
   }
 }
 @media screen and (max-width: 375px) {
@@ -115,8 +115,14 @@
     font-size: 38px;
   }
 }
+
 /* 768 */
 
+@media screen and (min-width: 768px) {
+  .work-iframe {
+    margin-left: 40px;
+  }
+}
 @media screen and (min-width: 768px) {
   .work-right {
     text-align: center;
@@ -132,6 +138,11 @@
 
 /* 1366 */
 
+@media screen and (min-width: 1366px) {
+  .work-iframe {
+    margin-left: 48px;
+  }
+}
 @media screen and (min-width: 1366px) {
   .work-right {
     margin: 0px 30px 0px 740px;
