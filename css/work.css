@@ -164,6 +164,13 @@
     position: absolute;
   }
 }
+@media screen and (min-width: 1365px) {
+    .work-right-cyl {
+      margin: 0px -600px 0px 740px;
+      text-align: unset;
+      position: absolute;
+    }
+}
 @media screen and (min-width: 1366px) {
   .work-left {
     padding-top: 140px;
