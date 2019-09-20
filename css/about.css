@@ -6,7 +6,8 @@
 }
 .about-image {
   align-self: center;
-  border-radius: 75px;
+  border-radius: 22px;
+  padding-bottom: 264px;
 }
 .abouttitle {
   letter-spacing: 9px;
@@ -79,6 +80,6 @@
 /* If screen size is more than 1258px wide */
 @media screen and (min-width: 1258px) {
   .about-image {
-    max-width: 500px;
+    max-width: 400px;
   }
 }
