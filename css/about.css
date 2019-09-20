@@ -17,6 +17,10 @@
   white-space: pre-line;
   -webkit-font-smoothing: antialiased;
 }
+.work-headings {
+  font-size: 18px;
+  font-style: oblique;
+}
 
 /* 376 */
 
