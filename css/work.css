@@ -159,9 +159,10 @@
 }
 @media screen and (min-width: 1365px) {
   .work-right {
-    margin: 0px 30px 0px 740px;
+    margin: 0px 30px 20px 700px;
     text-align: unset;
     position: absolute;
+    width: 530px;
   }
 }
 @media screen and (min-width: 1365px) {
