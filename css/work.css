@@ -7,6 +7,9 @@
   padding: 15px 0;
   -webkit-font-smoothing: antialiased;
 }
+.work-item-lgooh {
+  background: black;
+}
 .work-item {
   width: 600px;
   opacity: 1;
