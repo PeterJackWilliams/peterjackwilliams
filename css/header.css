@@ -19,7 +19,7 @@
     -webkit-font-smoothing: antialiased;
 }
 .header {
-    font-variant-caps: all-petite-caps;
+    font-family: caveat;
     -webkit-font-smoothing: antialiased;
     position: relative;
 }
