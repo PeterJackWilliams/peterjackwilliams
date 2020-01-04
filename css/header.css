@@ -56,7 +56,7 @@
   /* If screen size is more than 1285px wide */
   @media screen and (min-width: 1285px) {
     .header {
-    font-size: 77px;
+    font-size: 62px;
     letter-spacing: 7px;
     }
   }
