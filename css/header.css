@@ -1,7 +1,6 @@
 .links {
     display: flex;
     justify-content: flex-end;
-    font-size: 25px;
     position: relative;
 }
 .link {
@@ -25,6 +24,19 @@
 }
 
 /* 376 */
+
+/* If screen size is 376px wide, or less */
+@media screen and (max-width: 376px) {
+  .links {
+  font-size: 25px;
+  }
+}
+/* If screen size is more than 376px wide */
+@media screen and (min-width: 376px) {
+  .header {
+  font-size: 22px;
+  }
+}
 
 /* If screen size is 376px wide, or less */
 @media screen and (max-width: 376px) {

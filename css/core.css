@@ -224,7 +224,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .prm, .phm, .pam {
-  padding-right: 40px;
+  padding-right: 10px;
 }
 
 .prl, .phl, .pal {
@@ -264,7 +264,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .plm, .phm, .pam {
-  padding-left: 116px;
+  padding-left: 10px;
 }
 
 .pll, .phl, .pal {
