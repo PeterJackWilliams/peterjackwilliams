@@ -21,6 +21,19 @@
 }
 
 /* 376 */
+/* If screen size is 376px wide, or less */
+@media screen and (max-width: 376px) {
+  .allabouttext {
+    
+  }
+}
+/* If screen size is more than 376px wide */
+@media screen and (min-width: 376px) {
+  .allabouttext {
+    margin: 0px 150px 0px 150px;
+  }
+}
+
 
 /* If screen size is 376px wide, or less */
 @media screen and (max-width: 376px) {
