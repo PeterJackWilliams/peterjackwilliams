@@ -97,5 +97,6 @@
 @media screen and (min-width: 1258px) {
   .about-image {
     max-width: 400px;
+    margin-top: -300;
   }
 }
