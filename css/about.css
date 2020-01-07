@@ -1,8 +1,7 @@
 /* about attributes */
 
 .about-inner {
-  padding: 0px 40px 0px 40px;
-  margin-bottom: 150px;
+  
 }
 .about-image {
   align-self: center;
@@ -91,11 +90,12 @@
   .about-inner {
     text-align: unset;
     display: flex;
+    margin: 0px 0px 150px 200px;
   }
 }
 /* If screen size is more than 1258px wide */
 @media screen and (min-width: 1258px) {
   .about-image {
-    max-width: 400px;
+    max-width: 1200px;
   }
 }
