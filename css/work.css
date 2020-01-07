@@ -73,19 +73,21 @@
 }
 .work-right {
   white-space: pre-line;
-  font-family: monospace;
 }
 .filmtitle {
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0px;
   text-align: center;
+  font-family: monospace;
 }
 .filmdescription {
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0px;
+  font-family: monospace;
 }
 .filmdate {
   -webkit-font-smoothing: antialiased;
+  font-family: monospace;
 }
 
 /* media query */
