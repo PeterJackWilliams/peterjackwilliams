@@ -136,23 +136,6 @@ a:hover, a:focus {
 .lastpicmargin {
   margin-bottom: 250;
 }
-.filmtitle {
-  font-variant-caps: all-petite-caps;
-  -webkit-font-smoothing: antialiased;
-  letter-spacing: 7px;
-  
-}
-.filmdescription {
-  -webkit-font-smoothing: antialiased;
-  letter-spacing: 0px;
-  font-family: futura;
-  /*font-size: 22px;*/
-}
-.filmdate {
-  -webkit-font-smoothing: antialiased;
-  letter-spacing: 7px;
-  font-family: futura;
-}
 
 /* footer */
 .footer {
