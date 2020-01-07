@@ -78,13 +78,16 @@
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0px;
   text-align: center;
+  font-family: inherit;
 }
 .filmdescription {
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0px;
+  font-family: inherit;
 }
 .filmdate {
   -webkit-font-smoothing: antialiased;
+  font-family: inherit;
 }
 
 /* media query */
