@@ -134,7 +134,7 @@
 }
 @media screen and (min-width: 375px) {
   .filmtitle {
-    font-size: 38px;
+    font-size: 35px;
   }
 }
 
@@ -165,7 +165,7 @@
 }
 @media screen and (min-width: 768px) {
   .filmtitle {
-    font-size: 38px;
+    font-size: 35px;
   }
 }
 
@@ -221,6 +221,6 @@
 }
 @media screen and (min-width: 1366px) {
   .filmtitle {
-    font-size: 38px;
+    font-size: 35px;
   }
 }

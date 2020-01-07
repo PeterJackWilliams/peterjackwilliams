@@ -26,13 +26,13 @@
 
 /* If screen size is 376px wide, or less */
 @media screen and (max-width: 376px) {
-  .links {
+  .link {
   font-size: 22px;
   }
 }
 /* If screen size is more than 376px wide */
 @media screen and (min-width: 376px) {
-  .links {
+  .link {
   font-size: 25px;
   }
 }
