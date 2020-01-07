@@ -19,7 +19,8 @@
   font-style: oblique;
 }
 .aboutexperience {
-
+  position: absolute;
+  margin: 770px 0px 100px 0px;
 }
 
 /* 376 */
@@ -100,6 +101,5 @@
 @media screen and (min-width: 1258px) {
   .about-image {
     max-width: 400px;
-    margin-top: -300;
   }
 }
