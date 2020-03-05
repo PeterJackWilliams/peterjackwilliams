@@ -32,11 +32,9 @@
 /* If screen size is more than 376px wide */
 @media screen and (min-width: 376px) {
   .aboutdescription {
-    margin: 0px 150px 0px 150px;
+    margin: 20px 40px 0px;
   }
 }
-
-
 /* If screen size is 376px wide, or less */
 @media screen and (max-width: 376px) {
   .about-inner {
@@ -88,7 +86,7 @@
 /* If screen size is more than 768px wide */
 @media screen and (min-width: 768px) {
   .aboutexperience {
-    margin: 0px 70px;
+    margin: 0px 70px 200px;
   }
 }
 /* If screen size is more than 768px wide */
