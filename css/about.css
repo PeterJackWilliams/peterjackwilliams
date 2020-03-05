@@ -59,7 +59,7 @@
   }
 }
 /* If screen size is more than 376px wide */
-@media screen and (min-width: 376px) {
+@media screen and (max-width: 376px) {
   .about-image {
     max-width: 340px;
     padding-bottom: 748px;
