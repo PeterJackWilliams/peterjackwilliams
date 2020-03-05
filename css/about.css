@@ -20,7 +20,6 @@
 }
 .aboutexperience {
   position: absolute;
-  margin: 610px 0px 400px 0px;
 }
 
 /* 376 */
@@ -62,7 +61,7 @@
 @media screen and (max-width: 376px) {
   .about-image {
     max-width: 340px;
-    padding-bottom: 748px;
+    padding-bottom: 20px;
   }
 }
 /* If screen size is more than 376px wide */
