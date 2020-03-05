@@ -66,7 +66,7 @@
   }
 }
 /* If screen size is more than 376px wide */
-@media screen and (min-width: 376px) {
+@media screen and (max-width: 376px) {
   .aboutexperience {
     margin: 0px 20px 400px 20px;
   }
