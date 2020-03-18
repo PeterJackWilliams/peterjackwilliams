@@ -354,14 +354,7 @@ h1, h2, h3, h4, h5, h6 {
 .ar, .atr, .abr {
   right: 0px;
 }
-
-.atm,
-.abm,
-.amm,
-.alm,
-.arm {
-  -webkit-filter: blur(0);
-}
+  
 
 .atm {
   left: 50%;
