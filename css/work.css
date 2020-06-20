@@ -190,9 +190,8 @@
 }
 @media screen and (min-width: 1360px) {
   .work-right {
-    margin: 0px 30px 20px 700px;
+    margin: -300px 30px 20px 700px;
     text-align: unset;
-    position: absolute;
     width: 530px;
   }
 }
