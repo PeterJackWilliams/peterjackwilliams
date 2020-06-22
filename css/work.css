@@ -120,7 +120,8 @@
 }
 @media screen and (max-width: 640px) {
   .topimage {
-    margin-left: 88px;
+    max-width: 100%;
+    text-align: center;
   }
 }
 @media screen and (min-width: 640px) {
@@ -131,7 +132,7 @@
 }
 @media screen and (max-width: 640px) {
   .work-left-items {
-    width: 368;
+    max-width: 80%;
   }
 }
 @media screen and (min-width: 640px) {
