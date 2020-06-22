@@ -25,27 +25,25 @@
 /* 376 */
 
 /* If screen size is 376px wide, or less */
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 640px) {
   .link {
   font-size: 22px;
   }
 }
 /* If screen size is more than 376px wide */
-@media screen and (min-width: 376px) {
+@media screen and (min-width: 640px) {
   .link {
   font-size: 25px;
   }
 }
-
 /* If screen size is 376px wide, or less */
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 640px) {
     .header {
-    font-size: 36px;
-    letter-spacing: 0px;
+    font-size: 30px;
     }
   }
   /* If screen size is more than 376px wide */
-  @media screen and (min-width: 376px) {
+  @media screen and (min-width: 640px) {
     .header {
     font-size: 47px;
     letter-spacing: 4px;
