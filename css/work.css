@@ -30,7 +30,7 @@
 }
 .work-iframe {
   width: 560px;
-  height: 315px;
+  height: 236px;
 }
 .fadeintext {
   transition: 2s ease;
@@ -87,45 +87,45 @@
 
 /* 375 */
 
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 640px) {
   .work-iframe {
     max-width: 90%;
   }
 }
-@media screen and (min-width: 376px) {
+@media screen and (min-width: 640px) {
   .work-iframe {
     max-width: 100%;
   }
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 640px) {
   .work-container {
    margin: 0px;
   }
 }
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 640px) {
   .work-container {
     margin: 0px 60px;
   }
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 640px) {
   .work-right {
     text-align: center;
     margin: 40px 10px 0px 10px;
   }
 
 }
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 640px) {
   .work-left {
     padding-top: 30px;
   }
 }
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 640px) {
   .work-left-items {
     max-width: 120%;
     margin-left: -25px;
   }
 }
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 640px) {
   .filmtitle {
     font-size: 35px;
   }
