@@ -188,15 +188,14 @@
     width: 550px;
   }
 }
-@media screen and (min-width: 1365px) {
+@media screen and (min-width: 1360px) {
   .work-right {
-    margin: 0px 30px 20px 700px;
+    margin: -300px 30px 20px 700px;
     text-align: unset;
-    position: absolute;
     width: 530px;
   }
 }
-@media screen and (min-width: 1365px) {
+@media screen and (min-width: 1360px) {
     .work-right-cyl {
       margin: 0px -600px 0px 740px;
       text-align: unset;
