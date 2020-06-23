@@ -86,11 +86,6 @@
     height: 370px;
   }
 }
-@media screen and (min-width: 420px) and (max-width: 768px) {
-  .htmlstyle {
-    height: 270px;
-  }
-}
 @media screen and (max-width: 420px) {
   .htmlstyle {
     height: 183px;
