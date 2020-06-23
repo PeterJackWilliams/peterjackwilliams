@@ -27,11 +27,6 @@
 /* 640 */
 
 @media screen and (max-width: 640px) {
-  .work-item {
-    max-width: 70%
-  }
-}
-@media screen and (max-width: 640px) {
   .container, .headerandlinks {
     flex-direction: column;
     display: flex;
