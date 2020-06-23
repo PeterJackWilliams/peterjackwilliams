@@ -28,7 +28,7 @@
 }
 @media screen and (min-width: 1258px) {
   .aboutexperience {
-    margin: 610px 0px 400px 0px;
+    margin: 0px 180px 200px;
     }
 }
 
@@ -88,18 +88,17 @@
 @media screen and (min-width: 1285px) {
   .about-inner {
     text-align: unset;
-    display: flex;
-    margin: 0px 0px 150px 200px;
+    margin-bottom: 200px;
   }
 }
 @media screen and (min-width: 1258px) {
   .about-image {
     max-width: 540px;
-    margin-left: -76px;
+    margin-left: 90px;
     }
 }
 @media screen and (min-width: 1258px) {
   .aboutdescription {
-    margin: 20px 100px 0px 80px;
+    margin: -442px 90px 0px 700px;
     }
 }
