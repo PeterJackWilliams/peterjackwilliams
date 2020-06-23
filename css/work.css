@@ -81,6 +81,19 @@
 
 /* media query */
 
+/* 420 */
+
+@media screen and (max-width: 420px) {
+  .htmlstyle {
+    height: 220px;
+  }
+}
+@media screen and (min-width: 420px) {
+  .htmlstyle {
+    height: 220px;
+  }
+}
+
 /* 640 */
 
 @media screen and (max-width: 640px) {
@@ -160,6 +173,11 @@
     letter-spacing: 20px;
   }
 }
+@media screen and (max-width: 640px) {
+  .htmlstyle {
+    height: 270px;
+  }
+}
 
 /* 768 */
 
@@ -191,6 +209,15 @@
     font-size: 35px;
   }
 }
+@media screen and (max-width: 768px) {
+  .htmlstyle {
+    height: 370px;
+  }
+@media screen and (max-width: 1024px) {
+  .htmlstyle {
+    height: 370px;
+  }
+}
 
 /* 1024 */
 
@@ -207,6 +234,19 @@
 @media screen and (min-width: 1024px) {
   .work-iframe {
     width: 440px;
+  }
+}
+
+/* 1280 */
+
+@media screen and (max-width: 1280px) {
+  .htmlstyle {
+    height: 370px;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .htmlstyle {
+    height: 370px;
   }
 }
 
