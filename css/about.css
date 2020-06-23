@@ -26,7 +26,7 @@
     margin: 0px 40px 200px;
   }
 }
-@media screen and (min-width: 1258px) {
+@media screen and (min-width: 1360px) {
   .aboutexperience {
     margin: 0px 180px 200px;
     }
@@ -80,24 +80,24 @@
     margin: 20px 40px;
   }
 }
-@media screen and (max-width: 1285px) {
+@media screen and (max-width: 1360px) {
   .about-inner {
     text-align: center;
   }
 }
-@media screen and (min-width: 1285px) {
+@media screen and (min-width: 1360px) {
   .about-inner {
     text-align: unset;
     margin-bottom: 200px;
   }
 }
-@media screen and (min-width: 1258px) {
+@media screen and (min-width: 1360px) {
   .about-image {
     max-width: 540px;
     margin-left: 90px;
     }
 }
-@media screen and (min-width: 1258px) {
+@media screen and (min-width: 1360px) {
   .aboutdescription {
     margin: -442px 90px 0px 700px;
     }
