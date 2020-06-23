@@ -82,8 +82,8 @@
 /* media query */
 
 @media screen and (max-width: 420px) {
-  .htmlstyle {
-    height: 220px;
+  html > .htmlstyle {
+    height: 183px;
   }
 }
 @media screen and (min-width: 420px) and (max-width: 768px) {
