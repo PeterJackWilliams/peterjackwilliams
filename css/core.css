@@ -38,7 +38,7 @@
 /* If screen size is 376px wide, or less */
 @media screen and (max-width: 640px) {
   .fadeintext {
-    top: -97px;
+    top: -136px;
   }
 }
 /* If screen size is more than 376px wide */
@@ -57,6 +57,26 @@
 @media screen and (min-width: 640px) {
   .buttons {
     padding-right: 210px;
+  }
+}
+/* If screen size is 376px wide, or less */
+@media screen and (max-width: 640px) {
+  .htmlstyle {
+    height: 270px;
+  }
+}
+/* If screen size is 376px wide, or less */
+@media screen and (max-width: 640px) {
+  .imagetitle {
+    font-size: 13px;
+    letter-spacing: 6px;
+  }
+}
+/* If screen size is 376px wide, or less */
+@media screen and (max-width: 640px) {
+  .imagesubheading {
+    font-size: 12px;
+    letter-spacing: 10px;
   }
 }
 
