@@ -22,45 +22,48 @@
 
 /* MEDIA QUIRES */
 
-/* If screen size is 376px wide, or less */
-@media screen and (max-width: 376px) {
-  .work-item {
-    max-width: 70%
-  }
-}
+/* 420 */
 
+/* 640 */
 
-/* If screen size is 600px wide, or less */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 640px) {
   .container, .headerandlinks {
     flex-direction: column;
     display: flex;
   }
 }
-/* If screen size is 376px wide, or less */
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 640px) {
   .fadeintext {
-    top: -97px;
+    top: -136px;
   }
 }
-/* If screen size is more than 376px wide */
-@media screen and (min-width: 376px) {
+@media screen and (min-width: 640px) {
   .fadeintext {
     top: -193px;
   }
 }
-/* If screen size is 376px wide, or less */
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 640px) {
   .buttons {
     padding-right: 50px;
   }
 }
-/* If screen size is more than 376px wide */
-@media screen and (min-width: 376px) {
+@media screen and (min-width: 640px) {
   .buttons {
     padding-right: 210px;
   }
 }
+
+/* 768 */
+
+
+
+/* 1024 */
+
+
+
+/* 1280 */
+
+
 
 
 /* STYLES */
