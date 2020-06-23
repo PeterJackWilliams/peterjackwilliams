@@ -42,7 +42,7 @@
 }
 @media screen and (min-width: 640px) {
   .fadeintext {
-    top: -136px;
+    top: -193px;
   }
 }
 @media screen and (max-width: 640px) {
@@ -63,11 +63,11 @@
 
 /* 768 */
 
-/* @media screen and (max-width: 640px) {
-  .fadeintext {
-    top: -136px;
+@media screen and (max-width: 640px) {
+  .htmlstyle {
+    height: 270px;
   }
-} */
+}
 
 /* STYLES */
 
