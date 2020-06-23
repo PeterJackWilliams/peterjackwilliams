@@ -3,6 +3,9 @@
 .about-image {
   max-width: 60%;
 }
+.imagecontainer {
+  text-align: center;
+}
 .abouttitle {
   letter-spacing: 9px;
   font-size: 20px;
@@ -56,19 +59,13 @@
 }
 @media screen and (min-width: 1360px) {
   .aboutdescription {
-    margin: -442px 90px 0px 700px;
+    margin: -510px 70px 0px 790px;
     }
 }
-
 
 @media screen and (min-width: 420px) {
   .about-image {
     padding-bottom: 20px;
-  }
-}
-@media screen and (min-width: 768px) {
-  .imagecontainer {
-    text-align: center;
   }
 }
 @media screen and (min-width: 1024px) {
@@ -83,6 +80,6 @@
 @media screen and (min-width: 1360px) {
   .about-image {
     max-width: 50%;
-    margin-left: 90px;
+    margin-left: 70px;
     }
 }
