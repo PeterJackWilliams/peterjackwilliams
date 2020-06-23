@@ -65,11 +65,22 @@
 
 @media screen and (max-width: 768px) {
   .htmlstyle {
-    height: 270px;
+    height: 370px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .htmlstyle {
+    height: 370px;
   }
 }
 
 /* 1024 */
+
+@media screen and (max-width: 1024px) {
+  .htmlstyle {
+    height: 370px;
+  }
+}
 
 /* STYLES */
 
