@@ -63,11 +63,13 @@
 
 /* 768 */
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 768px) {
   .htmlstyle {
     height: 270px;
   }
 }
+
+/* 1024 */
 
 /* STYLES */
 
