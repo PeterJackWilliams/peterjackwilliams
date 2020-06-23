@@ -61,25 +61,6 @@
 }
 
 @media screen and (max-width: 420px) {
-  .about-inner {
-    display: inline-block;
-    padding: 0px 0px 0px 0px;
-    text-align: center;
-  }
-}
-@media screen and (min-width: 420px) {
-  .about-inner {
-    text-align: center;
-  }
-}
-@media screen and (min-width: 1024px) {
-  .about-inner {
-    text-align: unset;
-    margin-bottom: 200px;
-  }
-}
-
-@media screen and (max-width: 420px) {
   .about-image {
     max-width: 200px;
   }
