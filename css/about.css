@@ -76,6 +76,11 @@
     margin: 0px 110px;
     }
 }
+@media screen and (min-width: 768px) {
+  .about-image {
+    margin: 0px 160px;
+    }
+}
 @media screen and (min-width: 1024px) {
   .about-image {
     max-width: 470px;
