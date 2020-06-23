@@ -81,11 +81,19 @@
 
 /* media query */
 
-/* 420 */
-
 @media screen and (max-width: 420px) {
   .htmlstyle {
     height: 220px;
+  }
+}
+@media screen and (min-width: 420px) and (max-width: 768px) {
+  .htmlstyle {
+    height: 270px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .htmlstyle {
+    height: 370px;
   }
 }
 
@@ -168,11 +176,6 @@
     letter-spacing: 20px;
   }
 }
-@media screen and (max-width: 640px) {
-  .htmlstyle {
-    height: 270px;
-  }
-}
 
 /* 768 */
 
@@ -202,16 +205,6 @@
 @media screen and (min-width: 768px) {
   .filmtitle {
     font-size: 35px;
-  }
-}
-@media screen and (max-width: 768px) {
-  .htmlstyle {
-    height: 370px;
-  }
-}
-@media screen and (min-width: 768px) {
-  .htmlstyle {
-    height: 370px;
   }
 }
 
@@ -253,11 +246,11 @@
   }
 }
 @media screen and (min-width: 1360px) {
-    .work-right-cyl {
-      margin: 0px -600px 0px 740px;
-      text-align: unset;
-      position: absolute;
-    }
+  .work-right-cyl {
+    margin: 0px -600px 0px 740px;
+    text-align: unset;
+    position: absolute;
+  }
 }
 @media screen and (min-width: 1366px) {
   .work-left {
