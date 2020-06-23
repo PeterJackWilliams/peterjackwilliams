@@ -1,7 +1,7 @@
 /* about attributes */
 
 .about-image {
-  align-self: center;
+  max-width: 60%;
 }
 .abouttitle {
   letter-spacing: 9px;
@@ -60,14 +60,9 @@
     }
 }
 
-@media screen and (max-width: 420px) {
-  .about-image {
-    max-width: 320px;
-  }
-}
+
 @media screen and (min-width: 420px) {
   .about-image {
-    max-width: 400px;
     padding-bottom: 20px;
   }
 }
@@ -83,13 +78,12 @@
 }
 @media screen and (min-width: 1024px) {
   .about-image {
-    max-width: 470px;
     margin-left: 40px;
     }
 }
 @media screen and (min-width: 1360px) {
   .about-image {
-    max-width: 540px;
+    max-width: 50%;
     margin-left: 90px;
     }
 }
