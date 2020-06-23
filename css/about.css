@@ -57,6 +57,11 @@
     margin: -428px 40px 0px 570px;
     }
 }
+@media screen and (min-width: 1192px) {
+  .aboutdescription {
+    margin: -440px 50px 0px 650px;
+    }
+}
 @media screen and (min-width: 1360px) {
   .aboutdescription {
     margin: -510px 70px 0px 790px;
