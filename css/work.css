@@ -88,11 +88,6 @@
     height: 220px;
   }
 }
-@media screen and (min-width: 420px) {
-  .htmlstyle {
-    height: 220px;
-  }
-}
 
 /* 640 */
 
@@ -213,7 +208,8 @@
   .htmlstyle {
     height: 370px;
   }
-@media screen and (max-width: 1024px) {
+}
+@media screen and (min-width: 768px) {
   .htmlstyle {
     height: 370px;
   }
@@ -239,16 +235,7 @@
 
 /* 1280 */
 
-@media screen and (max-width: 1280px) {
-  .htmlstyle {
-    height: 370px;
-  }
-}
-@media screen and (min-width: 1280px) {
-  .htmlstyle {
-    height: 370px;
-  }
-}
+
 
 /* 1366 */
 
