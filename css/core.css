@@ -29,7 +29,11 @@
     height: 220px;
   }
 }
-
+@media screen and (min-width: 420px) {
+  .htmlstyle {
+    height: 220px;
+  }
+}
 /* 640 */
 
 @media screen and (max-width: 640px) {
