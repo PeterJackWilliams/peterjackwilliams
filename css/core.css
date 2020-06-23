@@ -22,6 +22,14 @@
 
 /* MEDIA QUIRES */
 
+/* 420 */
+
+@media screen and (max-width: 420px) {
+  .htmlstyle {
+    height: 200px;
+  }
+}
+
 /* 640 */
 
 @media screen and (max-width: 640px) {
