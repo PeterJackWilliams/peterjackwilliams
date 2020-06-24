@@ -36,6 +36,11 @@
     margin: 0px 180px 200px;
     }
 }
+@media screen and (min-width: 1650px) {
+  .aboutexperience {
+    margin: 100px 180px 200px;
+    }
+}
 
 @media screen and (max-width: 420px) {
   .aboutdescription {
@@ -67,6 +72,11 @@
     margin: -510px 70px 0px 790px;
     }
 }
+@media screen and (min-width: 1650px) {
+  .aboutdescription {
+    margin: -410px 60px 0px 700px;
+    }
+}
 
 @media screen and (min-width: 420px) {
   .about-image {
@@ -84,7 +94,13 @@
 }
 @media screen and (min-width: 1360px) {
   .about-image {
-    max-width: 50%;
+    max-width: 35%;
     margin-left: 70px;
+    }
+}
+@media screen and (min-width: 1650px) {
+  .about-image {
+    max-width: 30%;
+    margin-left: 90px;
     }
 }
