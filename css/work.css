@@ -28,9 +28,6 @@
 .work-right-cyl {
   white-space: pre-line;
 }
-.work-iframe {
-  
-}
 .fadeintext {
   transition: 2s ease;
   opacity: 0;
@@ -90,6 +87,7 @@
     height: 250px;
   }
 }
+
 @media screen and (max-width: 640px) {
   .work-item {
     max-width: 90%;
@@ -151,6 +149,12 @@
 }
 
 @media screen and (max-width: 640px) {
+  .videoandwork-right {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 640px) {
   .work-container {
    margin: 0px;
   }
@@ -160,17 +164,23 @@
     margin: 0px 60px;
   }
 }
+
 @media screen and (min-width: 640px) {
   .work-left {
     padding-top: 30px;
   }
 }
-@media screen and (max-width: 640px) {
-  .topimage {
-    max-width: 100%;
-    text-align: center;
+@media screen and (min-width: 768px) {
+  .work-left {
+    padding-top: 50px;
   }
 }
+@media screen and (min-width: 1366px) {
+  .work-left {
+    padding-top: 140px;
+  }
+}
+
 @media screen and (min-width: 640px) {
   .work-left-items {
     max-width: 120%;
@@ -182,11 +192,46 @@
     max-width: 90%;
   }
 }
+@media screen and (min-width: 768px) {
+  .work-left-items {
+    margin: 10px;
+    max-width: 100%;
+  }
+}
+@media screen and (min-width: 1366px) {
+  .work-left-items {
+    margin: 10px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .topimage {
+    max-width: 100%;
+    text-align: center;
+  }
+}
+
 @media screen and (min-width: 640px) {
   .filmtitle {
     font-size: 35px;
   }
 }
+@media screen and (min-width: 768px) {
+  .filmtitle {
+    font-size: 35px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .filmtitle {
+    font-size: 28px;
+  }
+}
+@media screen and (min-width: 1366px) {
+  .filmtitle {
+    font-size: 35px;
+  }
+}
+
 @media screen and (max-width: 640px) {
   .imagetitle {
     font-size: 13px;
@@ -199,6 +244,7 @@
     letter-spacing: 10px;
   }
 }
+
 @media screen and (max-width: 640px) {
   .imagesubheading {
     font-size: 12px;
@@ -209,55 +255,5 @@
   .imagesubheading {
     font-size: 17px;
     letter-spacing: 20px;
-  }
-}
-
-/* 768 */
-
-
-@media screen and (min-width: 768px) {
-  .work-left {
-    padding-top: 50px;
-  }
-}
-@media screen and (min-width: 768px) {
-  .work-left-items {
-    margin: 10px;
-    max-width: 100%;
-  }
-}
-@media screen and (min-width: 768px) {
-  .filmtitle {
-    font-size: 35px;
-  }
-}
-
-/* 1024 */
-
-@media screen and (min-width: 1024px) {
-  .filmtitle {
-    font-size: 28px;
-  }
-}
-
-/* 1280 */
-
-
-
-/* 1366 */
-
-@media screen and (min-width: 1366px) {
-  .work-left {
-    padding-top: 140px;
-  }
-}
-@media screen and (min-width: 1366px) {
-  .work-left-items {
-    margin: 10px;
-  }
-}
-@media screen and (min-width: 1366px) {
-  .filmtitle {
-    font-size: 35px;
   }
 }
