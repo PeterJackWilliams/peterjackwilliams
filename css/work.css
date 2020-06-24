@@ -14,7 +14,7 @@
 .work-container {
   display: inline-flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   position: relative;
 }
 .work-left {
