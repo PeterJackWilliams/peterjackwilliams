@@ -79,12 +79,12 @@
 
 @media screen and (min-width: 420px) {
   .htmlstyle {
-    height: 220px;
+    height: 370px;
   }
 }
 @media screen and (max-width: 420px) {
   .htmlstyle {
-    height: 250px;
+    height: 220px;
   }
 }
 
