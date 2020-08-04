@@ -76,6 +76,17 @@
 }
 
 /* media query */
+@media screen and (min-width: 420px) {
+  .jwclogo {
+    position: relative;
+  }
+}
+@media screen and (max-width: 420px) {
+  .jwclogo {
+    position: relative;
+  }
+}
+
 
 @media screen and (min-width: 420px) {
   .htmlstyle {
