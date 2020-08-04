@@ -80,7 +80,8 @@
 @media screen and (max-width: 420px) {
   .jwclogo {
     position: relative;
-    max-width: 200px;
+    max-width: 157px;
+    padding-top: 2px;
   }
 }
 @media screen and (min-width: 640px) {
@@ -99,12 +100,14 @@
   .jwclogo {
     position: relative;
     max-width: 200px;
+    margin-left: 345px;
   }
 }
 @media screen and (min-width: 1360px) {
   .jwclogo {
     position: relative;
     max-width: 200px;
+    margin-left: 490px;
   }
 }
 
