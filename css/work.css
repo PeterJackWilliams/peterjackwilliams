@@ -110,7 +110,6 @@
   .jwclogo {
     position: relative;
     max-width: 157px;
-    padding-top: 2px;
     margin: -30px auto;
   }
 }
@@ -118,27 +117,29 @@
   .jwclogo {
     position: relative;
     max-width: 200px;
+    margin: -30px auto;
   }
 }
 @media screen and (min-width: 768px) {
   .jwclogo {
     position: relative;
     max-width: 200px;
+    margin: -30px auto;
   }
 }
 @media screen and (min-width: 1024px) {
   .jwclogo {
     position: relative;
     max-width: 200px;
-    margin-left: 345px;
+    margin: -30px auto;
   }
 }
 @media screen and (min-width: 1360px) {
   .jwclogo {
     position: relative;
     max-width: 200px;
-    margin-left: 490px;
-  }
+    margin: -30px auto;
+    }
 }
 
 
