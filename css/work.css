@@ -95,7 +95,9 @@
 
 @media screen and (max-width: 420px) {
   .worksection {
-    
+    display: flex;
+    justify-content: space-evenly;
+    margin: 90px auto;
   }
 }
 @media screen and (min-width: 420px) {
