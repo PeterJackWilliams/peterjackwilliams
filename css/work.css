@@ -80,7 +80,6 @@
 }
 .homepagework {
   margin-bottom: 250px;
-  text-align: -webkit-center;
 }
 .homepageimages {
   max-width: 600px;
@@ -91,6 +90,13 @@
 }
 
 /* media query */
+
+@media screen and (max-width: 1024px) {
+  .homepagework {
+    text-align: -webkit-center;
+  }
+}
+
 
 @media screen and (max-width: 420px) {
   .homepageimages {
@@ -127,7 +133,7 @@
 }
 @media screen and (min-width: 1024px) {
   .homepagetitles {
-    
+    font-size: 40px;
   }
 }
 @media screen and (min-width: 1360px) {
@@ -159,7 +165,9 @@
 }
 @media screen and (min-width: 1024px) {
   .worksection {
-    
+    display: flex;
+    justify-content: space-evenly;
+    margin: 90px auto;
   }
 }
 @media screen and (min-width: 1360px) {
