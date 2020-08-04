@@ -74,8 +74,37 @@
   -webkit-font-smoothing: antialiased;
   font-family: inherit;
 }
+.tagline {
+  font-family: 'Caveat', cursive;
+}
 
 /* media query */
+
+@media screen and (max-width: 420px) {
+  .tagline {
+    
+  }
+}
+@media screen and (min-width: 640px) {
+  .tagline {
+    
+  }
+}
+@media screen and (min-width: 768px) {
+  .tagline {
+    
+  }
+}
+@media screen and (min-width: 1024px) {
+  .tagline {
+    
+  }
+}
+@media screen and (min-width: 1360px) {
+  .tagline {
+   
+  }
+}
 
 @media screen and (max-width: 420px) {
   .jwclogo {
