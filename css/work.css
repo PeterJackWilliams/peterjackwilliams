@@ -97,6 +97,12 @@
     font-size: 28px;
   }
 }
+@media screen and (min-width: 420px) {
+  .tagline {
+    margin: 50px 23px;
+    font-size: 28px;
+  }
+}
 @media screen and (min-width: 640px) {
   .tagline {
     margin: 50px 50px;
