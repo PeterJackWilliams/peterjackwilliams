@@ -93,71 +93,43 @@
 /* media query */
 
 @media screen and (max-width: 420px) {
-  .homepagetitlesright {
-    font-size: 40px;
-    font-family: 'Caveat', cursive;
-    text-align: center;
+  .homepageimages {
+    margin: 10px 20px;
+    order: 1;
+  }
+  .homepagetitles {
+    order: 2;
   }
 }
-@media screen and (min-width: 420px) {
-  .homepagetitlesright {
-    font-size: 40px;
-    font-family: 'Caveat', cursive;
-    text-align: center;
-  }
-}
-@media screen and (min-width: 640px) {
-  .homepagetitlesright {
-    
-  }
-}
-@media screen and (min-width: 768px) {
-  .homepagetitlesright {
-    
-  }
-}
-@media screen and (min-width: 1024px) {
-  .homepagetitlesright {
-    
-  }
-}
-@media screen and (min-width: 1360px) {
-  .homepagetitlesright {
-    
-  }
-}
-
 @media screen and (max-width: 420px) {
-  .homepagetitlesleft {
+  .homepagetitles {
     font-size: 40px;
-    font-family: 'Caveat', cursive;
     text-align: center;
   }
 }
 @media screen and (min-width: 420px) {
-  .homepagetitlesleft {
+  .homepagetitles {
     font-size: 40px;
-    font-family: 'Caveat', cursive;
     text-align: center;
   }
 }
 @media screen and (min-width: 640px) {
-  .homepagetitlesleft {
+  .homepagetitles {
     
   }
 }
 @media screen and (min-width: 768px) {
-  .homepagetitlesleft {
+  .homepagetitles {
     
   }
 }
 @media screen and (min-width: 1024px) {
-  .homepagetitlesleft {
+  .homepagetitles {
     
   }
 }
 @media screen and (min-width: 1360px) {
-  .homepagetitlesleft {
+  .homepagetitles {
     
   }
 }
@@ -165,8 +137,6 @@
 
 @media screen and (max-width: 420px) {
   .worksection {
-    display: flex;
-    justify-content: space-evenly;
     margin: 90px auto;
   }
 }
