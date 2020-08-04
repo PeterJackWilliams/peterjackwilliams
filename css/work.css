@@ -86,10 +86,45 @@
   margin: 10px 40px;
 }
 .homepagetitles {
-
+  font-size: 60px;
+  margin: 100px 60px 0px -20px;
+  font-family: 'Caveat', cursive;
 }
 
 /* media query */
+
+@media screen and (max-width: 420px) {
+  .worksection {
+    
+  }
+}
+@media screen and (min-width: 420px) {
+  .worksection {
+   
+  }
+}
+@media screen and (min-width: 640px) {
+  .worksection {
+    
+  }
+}
+@media screen and (min-width: 768px) {
+  .worksection {
+    
+  }
+}
+@media screen and (min-width: 1024px) {
+  .worksection {
+    
+  }
+}
+@media screen and (min-width: 1360px) {
+  .worksection {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 90px auto;
+  }
+}
 
 @media screen and (max-width: 420px) {
   .tagline {
