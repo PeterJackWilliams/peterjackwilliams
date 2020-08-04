@@ -79,11 +79,13 @@
 @media screen and (min-width: 420px) {
   .jwclogo {
     position: relative;
+    max-width: 250px;
   }
 }
 @media screen and (max-width: 420px) {
   .jwclogo {
     position: relative;
+    max-width: 250px;
   }
 }
 
