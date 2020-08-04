@@ -86,12 +86,82 @@
   margin: 10px 40px;
 }
 .homepagetitles {
-  font-size: 60px;
-  margin: 100px 60px;
+  /* margin: 100px 60px; */
   font-family: 'Caveat', cursive;
 }
 
 /* media query */
+
+@media screen and (max-width: 420px) {
+  .homepagetitlesright {
+    font-size: 40px;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+  }
+}
+@media screen and (min-width: 420px) {
+  .homepagetitlesright {
+    font-size: 40px;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+  }
+}
+@media screen and (min-width: 640px) {
+  .homepagetitlesright {
+    
+  }
+}
+@media screen and (min-width: 768px) {
+  .homepagetitlesright {
+    
+  }
+}
+@media screen and (min-width: 1024px) {
+  .homepagetitlesright {
+    
+  }
+}
+@media screen and (min-width: 1360px) {
+  .homepagetitlesright {
+    
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .homepagetitlesleft {
+    font-size: 40px;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+  }
+}
+@media screen and (min-width: 420px) {
+  .homepagetitlesleft {
+    font-size: 40px;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+  }
+}
+@media screen and (min-width: 640px) {
+  .homepagetitlesleft {
+    
+  }
+}
+@media screen and (min-width: 768px) {
+  .homepagetitlesleft {
+    
+  }
+}
+@media screen and (min-width: 1024px) {
+  .homepagetitlesleft {
+    
+  }
+}
+@media screen and (min-width: 1360px) {
+  .homepagetitlesleft {
+    
+  }
+}
+
 
 @media screen and (max-width: 420px) {
   .worksection {
