@@ -2,7 +2,7 @@
     display: flex;
     justify-content: flex-end;
     position: relative;
-    margin: 0 auto;
+    margin: 43px auto;
 }
 .link {
     padding: 0px 10px;
@@ -36,16 +36,18 @@
   }
 }
 @media screen and (max-width: 640px) {
-    .header {
-    font-size: 30px;
-    }
+  .header {
+  font-size: 30px;
   }
+}
   @media screen and (min-width: 640px) {
-    .header {
-    font-size: 47px;
-    letter-spacing: 4px;
-    }
+  .header {
+  font-size: 47px;
+  letter-spacing: 4px;
   }
+}
+
+
 
 /* 768 */
 
