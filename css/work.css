@@ -97,14 +97,12 @@
     margin: 10px 20px;
     order: 1;
   }
-  .homepagetitles {
-    order: 2;
-  }
 }
 @media screen and (max-width: 420px) {
   .homepagetitles {
     font-size: 40px;
     text-align: center;
+    order: 2;
   }
 }
 @media screen and (min-width: 420px) {
