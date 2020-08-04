@@ -95,20 +95,17 @@
 @media screen and (max-width: 420px) {
   .homepageimages {
     margin: 10px 20px;
-    order: 1;
   }
 }
+
 @media screen and (max-width: 420px) {
   .homepagetitles {
-    font-size: 40px;
-    text-align: center;
-    order: 2;
+    display: none;
   }
 }
 @media screen and (min-width: 420px) {
   .homepagetitles {
-    font-size: 40px;
-    text-align: center;
+    display: none;
   }
 }
 @media screen and (min-width: 640px) {
@@ -135,12 +132,12 @@
 
 @media screen and (max-width: 420px) {
   .worksection {
-    margin: 90px auto;
+    margin: 30px auto;
   }
 }
 @media screen and (min-width: 420px) {
   .worksection {
-   
+    margin: 30px auto;
   }
 }
 @media screen and (min-width: 640px) {
