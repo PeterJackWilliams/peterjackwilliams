@@ -93,13 +93,13 @@
 
 @media screen and (max-width: 420px) {
   .tagline {
-    margin: 50px 23px;
+    margin: -10px 23px 70px;
     font-size: 28px;
   }
 }
 @media screen and (min-width: 420px) {
   .tagline {
-    margin: 50px 23px;
+    margin: -10px 23px 70px;
     font-size: 28px;
   }
 }
