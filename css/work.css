@@ -76,36 +76,46 @@
 }
 .tagline {
   font-family: 'Caveat', cursive;
-  font-size: 40px;
   text-align: center;
-  margin: 50px 140px;
+}
+.homepagework {
+
+}
+.homepageimages {
+  max-width: 600px;
+  margin: 10px 40px;
+}
+.homepagetitles {
+
 }
 
 /* media query */
 
 @media screen and (max-width: 420px) {
   .tagline {
-    
+    margin: 50px 23px;
+    font-size: 28px;
   }
 }
 @media screen and (min-width: 640px) {
   .tagline {
-    
+    margin: 50px 50px;
+    font-size: 40px;
   }
 }
 @media screen and (min-width: 768px) {
   .tagline {
-    
+    margin: 50px 90px;
   }
 }
 @media screen and (min-width: 1024px) {
   .tagline {
-    
+    margin: 50px 140px;
   }
 }
 @media screen and (min-width: 1360px) {
   .tagline {
-   
+    margin: 80px 140px;
   }
 }
 
