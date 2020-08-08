@@ -98,7 +98,7 @@
 /* media query */
 
 @media screen and (min-width: 420px) {
-  .homepagevideo {
+  .homepagemedia {
     max-width: 90%;
     height: 212px;
     width: 550px;
@@ -106,25 +106,25 @@
   }
 }
 @media screen and (min-width: 640px) {
-  .homepagevideo {
+  .homepagemedia {
     height: 330px;
     width: 670px;
   }
 }
 @media screen and (min-width: 768px) {
-  .homepagevideo {
+  .homepagemedia {
     height: 380px;
     width: 670px;
   }
 }
 @media screen and (min-width: 1024px) {
-  .homepagevideo {
+  .homepagemedia {
     width: 860px;
     height: 490px;
   }
 }
 @media screen and (min-width: 1360px) {
-  .homepagevideo {
+  .homepagemedia {
     margin-left: 48px;
     width: 1160px;
     height: 650px;

@@ -1,0 +1,39 @@
+<div class="homepagework">
+
+<div class="worksection">
+    <a class="homepageimages" href="work/showreel.html">
+        <img src="img/jwcyoutubethumbnail.png" alt="Showreel">
+    </a>
+        <div class="homepagetitles">
+            <p>Showreel 2020</p>
+    </div>
+</div> 
+
+<div class="worksection">
+    <div class="homepagetitles">
+        <p>Social + Promotional</p>
+    </div>
+    <div class="homepageimages">
+        <img src="stills/zelah/22.png" alt="Social + Promotional">
+    </div>
+</div>
+
+<div class="worksection">
+    <div class="homepageimages">
+        <img src="stills/whitevilla/94.png" alt="Events + Corporate">
+    </div>
+    <div class="homepagetitles">
+        <p>Events + Corporate</p>
+    </div>
+</div> 
+
+<div class="worksection">
+    <div class="homepagetitles">
+        <p>Film + TV</p>
+    </div>
+    <div class="homepageimages">
+        <img src="stills/hairybikers/44.png" alt="Film + TV">
+    </div>
+</div>  
+
+</div> 
