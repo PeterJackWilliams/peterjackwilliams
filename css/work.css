@@ -88,6 +88,9 @@
 .homepagetitles {
   font-family: inherit;
 }
+.homepagevideo {
+  max-width: 100%;
+}
 
 /* media query */
 
