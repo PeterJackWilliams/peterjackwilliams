@@ -89,10 +89,45 @@
   font-family: inherit;
 }
 .homepagevideo {
-  max-width: 100%;
+  text-align: center;
 }
 
 /* media query */
+
+@media screen and (max-width: 420px) {
+  .homepagevideo {
+    max-width: 90%;
+    height: 212px;
+    width: 550px;
+    margin: auto;
+  }
+}
+@media screen and (max-width: 640px) {
+  .homepagevideo {
+    height: 330px;
+    width: 670px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .homepagevideo {
+    height: 380px;
+    width: 670px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .homepagevideo {
+    width: 860px;
+    height: 490px;
+  }
+}
+@media screen and (max-width: 1360px) {
+  .homepagevideo {
+    margin-left: 48px;
+    width: 1160px;
+    height: 650px;
+  }
+}
+
 
 @media screen and (max-width: 1024px) {
   .homepagework {
