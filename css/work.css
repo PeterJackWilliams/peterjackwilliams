@@ -78,6 +78,9 @@
   font-family: inherit;
   text-align: center;
 }
+.taglinelist {
+  font-size: 20px;
+}
 .homepagework {
   margin-bottom: 250px;
 }
@@ -187,6 +190,7 @@
     margin: 90px auto;
   }
 }
+
 
 @media screen and (max-width: 420px) {
   .tagline {
