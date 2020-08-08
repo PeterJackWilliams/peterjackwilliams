@@ -80,6 +80,11 @@
 }
 .taglinelist {
   font-size: 20px;
+  text-align: center;
+}
+.homepagetitles {
+  text-align: center;
+  font-size: 20px;
 }
 .homepagework {
   margin-bottom: 250px;
@@ -98,7 +103,38 @@
 /* media query */
 
 @media screen and (min-width: 420px) {
-  .homepagemedia {
+  .homepageimage {
+    
+  }
+}
+@media screen and (min-width: 640px) {
+  .homepageimage {
+    
+  }
+}
+@media screen and (min-width: 768px) {
+  .homepageimage {
+    
+  }
+}
+@media screen and (min-width: 1024px) {
+  .homepageimage {
+    
+  }
+}
+@media screen and (min-width: 1360px) {
+  .homepageimage {
+    
+  }
+}
+@media screen and (min-width: 1920px) {
+  .homepageimage {
+    
+  }
+}
+
+@media screen and (min-width: 420px) {
+  .homepagevideo {
     max-width: 90%;
     height: 212px;
     width: 550px;
@@ -106,25 +142,25 @@
   }
 }
 @media screen and (min-width: 640px) {
-  .homepagemedia {
+  .homepagevideo {
     height: 330px;
     width: 670px;
   }
 }
 @media screen and (min-width: 768px) {
-  .homepagemedia {
+  .homepagevideo {
     height: 380px;
     width: 670px;
   }
 }
 @media screen and (min-width: 1024px) {
-  .homepagemedia {
+  .homepagevideo {
     width: 860px;
     height: 490px;
   }
 }
 @media screen and (min-width: 1360px) {
-  .homepagemedia {
+  .homepagevideo {
     margin-left: 48px;
     width: 1160px;
     height: 650px;
