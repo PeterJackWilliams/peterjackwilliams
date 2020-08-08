@@ -45,12 +45,12 @@
   opacity: 1;
 }
 .imagetitle {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: inherit;
   -webkit-font-smoothing: antialiased;
   color: rgb(32, 32, 32);
 }
 .imagesubheading {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: inherit;
   -webkit-font-smoothing: antialiased;
   color: rgb(32, 32, 32);
 }
@@ -63,19 +63,19 @@
 .filmtitle {
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: inherit;
 }
 .filmdescription {
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: inherit;
 }
 .filmdate {
   -webkit-font-smoothing: antialiased;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: inherit;
 }
 .tagline {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: inherit;
   text-align: center;
 }
 .homepagework {
@@ -86,7 +86,7 @@
   margin: 10px 40px;
 }
 .homepagetitles {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: inherit;
 }
 
 /* media query */
