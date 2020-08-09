@@ -131,7 +131,8 @@
 }
 @media screen and (min-width: 1920px) {
   .homepageimage {
-    
+    width: 860px;
+    margin: 40px 0px 200px 80px;
   }
 }
 
