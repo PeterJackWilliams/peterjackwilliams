@@ -79,10 +79,12 @@
   text-align: center;
 }
 .taglinelist {
+  font-family: inherit;
   font-size: 20px;
   text-align: center;
 }
 .homepagetitles {
+  font-family: caveat;
   text-align: center;
   font-size: 20px;
 }
@@ -92,9 +94,6 @@
 .homepageimages {
   max-width: 600px;
   margin: 10px 40px;
-}
-.homepagetitles {
-  font-family: inherit;
 }
 .homepageshowreel {
   text-align: center;
