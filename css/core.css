@@ -161,7 +161,7 @@ a:hover, a:focus {
   float: right;
 }
 .fa {
-  
+  text-decoration: none;
 }
 .styling {
   justify-content: space-between;
