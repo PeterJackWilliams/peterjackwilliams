@@ -102,6 +102,11 @@
 .homepageimagemain {
   
 }
+.contactdetails {
+  padding-bottom: 10px;
+  border-top: 1px solid #494C4E;
+}
+
 
 /* media query */
 
@@ -198,7 +203,7 @@
 }
 @media screen and (min-width: 640px) {
   .homepagetitles {
-    font-size: 80px;
+    font-size: 70px;
   }
 }
 @media screen and (min-width: 768px) {
@@ -208,10 +213,11 @@
 }
 @media screen and (min-width: 1024px) {
   .homepagetitles {
-    font-size: 80px;
     margin: 120px 60px 0px 60px;
   }
 }
+
+
 
 
 @media screen and (max-width: 420px) {
