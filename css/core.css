@@ -166,6 +166,7 @@ a:hover, a:focus {
   width: 50px;
   text-align: center;
   text-decoration: none;
+  margin: 5px 2px;
 }
 .fa-linkedin {
   background: #2867B2;
