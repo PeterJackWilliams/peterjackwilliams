@@ -115,12 +115,9 @@ a:hover, a:focus {
   float: right;
 }
 .fa {
-  padding: 20px;
-  font-size: 35px;
-  width: 30px;
+  padding: 10px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
   border-radius: 50%;
 }
 .fa-linkedin {

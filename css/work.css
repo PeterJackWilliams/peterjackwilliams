@@ -510,9 +510,11 @@
     top: -193px;
   }
 }
-@media screen and (max-width: 640px) {
+
+@media screen and (min-width: 420px) {
   .buttons {
     padding-right: 40px;
+    margin-top: -32px;
   }
 }
 @media screen and (min-width: 768px) {
@@ -521,21 +523,34 @@
     margin-top: -53px;
   }
 }
+
+@media screen and (min-width: 420px) {
+  .footer {
+    height: 55px;
+  }
+}
 @media screen and (min-width: 768px) {
   .footer {
     height: 80px;
   }
 }
+
 @media screen and (min-width: 420px) {
   .footertext {
-    font-size: 12px;
-    margin: 42px 0px 0px 30px;
+    font-size: 14px;
+    margin: 16px 0px 0px 30px;
   }
 }
 @media screen and (min-width: 768px) {
   .footertext {
     font-size: 22px;
     margin: 24px 0px 0px 60px;
+  }
+}
+
+@media screen and (min-width: 420px) {
+  .fa {
+    font-size: 21px;
   }
 }
 @media screen and (min-width: 640px) {
