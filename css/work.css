@@ -86,7 +86,7 @@
 .homepagetitles {
   font-family: caveat;
   text-align: center;
-  font-size: 20px;
+  margin-bottom: 15px;
 }
 .homepagework {
   margin-bottom: 250px;
@@ -97,9 +97,13 @@
 }
 .homepageshowreel {
   text-align: center;
+  padding-bottom: 90px;
 }
 .homepageimagemain {
   
+}
+.ul {
+  padding-bottom: 10px;
 }
 
 /* media query */
@@ -190,11 +194,25 @@
   }
 }
 
-
+@media screen and (min-width: 420px) {
+  .homepagetitles {
+    font-size: 40px;
+  }
+}
+@media screen and (min-width: 640px) {
+  .homepagetitles {
+    font-size: 80px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .homepagetitles {
+    font-size: 80px;
+  }
+}
 @media screen and (min-width: 1024px) {
   .homepagetitles {
     font-size: 80px;
-    margin: 120px 90px 0px 60px;
+    margin: 120px 60px 0px 60px;
   }
 }
 
@@ -228,7 +246,7 @@
 @media screen and (max-width: 420px) {
   .tagline {
     margin: -10px 23px 70px;
-    font-size: 28px;
+    font-size: 22px;
   }
 }
 @media screen and (min-width: 420px) {
