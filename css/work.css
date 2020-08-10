@@ -102,9 +102,6 @@
 .homepageimagemain {
   
 }
-.ul {
-  padding-bottom: 10px;
-}
 
 /* media query */
 
@@ -252,7 +249,7 @@
 @media screen and (min-width: 420px) {
   .tagline {
     margin: -10px 23px 70px;
-    font-size: 28px;
+    font-size: 22px;
   }
 }
 @media screen and (min-width: 640px) {
@@ -323,6 +320,12 @@
     max-width: 200px;
     margin: -30px auto;
     }
+}
+
+@media screen and (min-width: 420px) {
+  .contactmap {
+    
+  }
 }
 
 
