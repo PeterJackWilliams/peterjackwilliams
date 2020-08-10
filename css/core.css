@@ -22,10 +22,6 @@
 
 /* MEDIA QUIRES */
 
-/* 420 */
-
-/* 640 */
-
 @media screen and (max-width: 640px) {
   .container, .headerandlinks {
     flex-direction: column;
@@ -44,25 +40,42 @@
 }
 @media screen and (max-width: 640px) {
   .buttons {
-    padding-right: 50px;
+    padding-right: 40px;
   }
 }
-@media screen and (min-width: 640px) {
+@media screen and (max-width: 768px) {
   .buttons {
-    padding-right: 210px;
+    padding-right: 70px;
+    margin-top: -53px;
   }
 }
-
-/* 768 */
-
-
-
-/* 1024 */
-
-
-
-/* 1280 */
-
+@media screen and (max-width: 768px) {
+  .footer {
+    height: 80px;
+  }
+}
+@media screen and (max-width: 420px) {
+  .footertext {
+    font-size: 12px;
+    margin: 42px 0px 0px 30px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .footertext {
+    font-size: 22px;
+    margin: 24px 0px 0px 60px;
+  }
+}
+@media screen and (max-width: 640px) {
+  .fa {
+    font-size: 25px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .fa {
+    font-size: 30px;
+  }
+}
 
 
 
@@ -150,19 +163,19 @@ a:hover, a:focus {
   z-index: 3;
 }
 .footertext {
-  font-size: small;
+  font-size: 27px;
   -webkit-font-smoothing: antialiased;
+  margin: 24px 0px 0px 120px;
 }
 .buttons {
   position: relative;
-  margin-top: -37px;
-  font-size: x-large;
+  margin-top: -58px;
   display: inline-flex;
   float: right;
 }
 .fa {
   padding: 20px;
-  font-size: 30px;
+  font-size: 35px;
   width: 30px;
   text-align: center;
   text-decoration: none;
@@ -175,15 +188,13 @@ a:hover, a:focus {
 }
 .fa-instagram {
   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  color: white;
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .styling {
   justify-content: space-between;
-  padding: 14px 3px 0px;
-  margin-right: 10%;
-  margin-left: 10%;
   display: flex;
 }
 
