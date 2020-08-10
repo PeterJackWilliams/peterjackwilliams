@@ -322,9 +322,10 @@
     }
 }
 
-@media screen and (min-width: 420px) {
+@media screen and (max-width: 768px) {
   .contactmap {
-    
+    height: 400px;
+    width: 360px;
   }
 }
 
