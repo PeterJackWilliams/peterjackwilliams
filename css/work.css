@@ -520,7 +520,7 @@
 @media screen and (min-width: 768px) {
   .buttons {
     padding-right: 70px;
-    margin-top: -53px;
+    margin-top: -48px;
   }
 }
 
@@ -560,6 +560,6 @@
 }
 @media screen and (min-width: 768px) {
   .fa {
-    font-size: 30px !important;
+    font-size: 40px !important;
   }
 }
