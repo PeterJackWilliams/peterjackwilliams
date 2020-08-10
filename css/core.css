@@ -119,7 +119,7 @@ a:hover, a:focus {
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
-  font-size: 21px;
+  font-size: 21px !important;
 }
 .fa-linkedin {
   background: #2867B2;
