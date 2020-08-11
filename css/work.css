@@ -147,7 +147,7 @@
 }
 @media screen and (min-width: 640px) {
   .homepagevideo {
-    height: 330px;
+    height: 320px;
     width: 670px;
   }
 }
@@ -198,17 +198,17 @@
 }
 @media screen and (min-width: 640px) {
   .homepagetitles {
-    font-size: 70px;
+    font-size: 60px;
   }
 }
 @media screen and (min-width: 768px) {
   .homepagetitles {
-    font-size: 80px;
+    font-size: 72px;
   }
 }
 @media screen and (min-width: 1024px) {
   .homepagetitles {
-    
+    font-size: 80px;
   }
 }
 
