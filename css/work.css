@@ -274,7 +274,7 @@
 }
 @media screen and (min-width: 1920px) {
   .contactdetails {
-    
+    margin: -430px 0px 430px 730px;
   }
 }
 
