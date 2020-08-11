@@ -330,22 +330,25 @@
 @media screen and (min-width: 640px) {
   .tagline {
     margin: 50px 50px;
-    font-size: 40px;
+    font-size: 25px;
   }
 }
 @media screen and (min-width: 768px) {
   .tagline {
     margin: 50px 90px;
+    font-size: 30px;
   }
 }
 @media screen and (min-width: 1024px) {
   .tagline {
     margin: 50px 140px;
+    font-size: 30px;
   }
 }
 @media screen and (min-width: 1360px) {
   .tagline {
     margin: 80px 140px;
+    font-size: 30px;
   }
 }
 @media screen and (min-width: 1920px) {
