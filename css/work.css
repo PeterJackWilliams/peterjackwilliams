@@ -260,8 +260,8 @@
 }
 @media screen and (min-width: 768px) {
   .contactmap {
-    width: 290px !important;
-    height: 500px !important;
+    width: 590px !important;
+    height: 350px !important;
   }
 }
 @media screen and (min-width: 1024px) {
@@ -295,8 +295,10 @@
 }
 @media screen and (min-width: 768px) {
   .contactdetails {
-    margin: -510px 0px 430px 350px;
-    font-size: 22px;
+    margin: 0px 0px 430px 0px;
+    font-size: 30px;
+    text-align: center;
+}
   }
 }
 @media screen and (min-width: 1024px) {
