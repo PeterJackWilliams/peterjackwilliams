@@ -97,10 +97,6 @@
 }
 .homepageshowreel {
   text-align: center;
-  padding-bottom: 90px;
-}
-.homepageimagemain {
-  
 }
 .contactdetails {
   padding-bottom: 150px;
@@ -138,7 +134,6 @@
 @media screen and (min-width: 1920px) {
   .homepageimage {
     width: 860px;
-    margin: 40px 0px 200px 80px;
   }
 }
 
@@ -213,7 +208,7 @@
 }
 @media screen and (min-width: 1024px) {
   .homepagetitles {
-    margin: 120px 60px 0px 60px;
+    
   }
 }
 
@@ -245,6 +240,43 @@
   }
 }
 
+@media screen and (max-width: 768px) {
+  .contactmap {
+    height: 400px;
+    width: 360px;
+  }
+}
+
+@media screen and (min-width: 420px) {
+  .contactdetails {
+    
+  }
+}
+@media screen and (min-width: 640px) {
+  .contactdetails {
+    
+  }
+}
+@media screen and (min-width: 768px) {
+  .contactdetails {
+    
+  }
+}
+@media screen and (min-width: 1024px) {
+  .contactdetails {
+    
+  }
+}
+@media screen and (min-width: 1360px) {
+  .contactdetails {
+    
+  }
+}
+@media screen and (min-width: 1920px) {
+  .contactdetails {
+    
+  }
+}
 
 @media screen and (max-width: 420px) {
   .tagline {
@@ -326,13 +358,6 @@
     max-width: 200px;
     margin: -30px auto;
     }
-}
-
-@media screen and (max-width: 768px) {
-  .contactmap {
-    height: 400px;
-    width: 360px;
-  }
 }
 
 
