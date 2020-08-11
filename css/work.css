@@ -240,10 +240,40 @@
   }
 }
 
+@media screen and (min-width: 420px) {
+  .contactmap {
+  
+  }
+}
+@media screen and (min-width: 640px) {
+  .contactmap {
+  
+  }
+}
 @media screen and (max-width: 768px) {
   .contactmap {
     height: 400px;
     width: 360px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .contactmap {
+  
+  }
+}
+@media screen and (min-width: 1024px) {
+  .contactmap {
+  
+  }
+}
+@media screen and (min-width: 1360px) {
+  .contactmap {
+  
+  }
+}
+@media screen and (min-width: 1920px) {
+  .contactmap {
+  
   }
 }
 
