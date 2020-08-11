@@ -260,14 +260,14 @@
 }
 @media screen and (min-width: 768px) {
   .contactmap {
-  width: 450px !important;
-  height: 400px !important;
+    width: 290px !important;
+    height: 500px !important;
   }
 }
 @media screen and (min-width: 1024px) {
   .contactmap {
-  width: 450px !important;
-  height: 400px !important;
+    width: 290px !important;
+    height: 500px !important;
   }
 }
 @media screen and (min-width: 1360px) {
@@ -295,17 +295,20 @@
 }
 @media screen and (min-width: 768px) {
   .contactdetails {
-    margin: -430px 0px 430px 730px;
+    margin: -510px 0px 430px 350px;
+    font-size: 22px;
   }
 }
 @media screen and (min-width: 1024px) {
   .contactdetails {
-    margin: -430px 0px 430px 730px;
+    margin: -510px 0px 430px 350px;
+    font-size: 22px;
   }
 }
 @media screen and (min-width: 1360px) {
   .contactdetails {
-    margin: -430px 0px 430px 730px;
+    margin: -400px 0px 420px 540px;
+    font-size: 30px;
   }
 }
 @media screen and (min-width: 1920px) {
