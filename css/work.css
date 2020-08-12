@@ -192,22 +192,22 @@
 }
 
 @media screen and (min-width: 420px) {
-  .homepagetitles .abouttitle {
+  .homepagetitles, .abouttitle {
     font-size: 40px;
   }
 }
 @media screen and (min-width: 640px) {
-  .homepagetitles .abouttitle {
+  .homepagetitles, .abouttitle {
     font-size: 60px;
   }
 }
 @media screen and (min-width: 768px) {
-  .homepagetitles .abouttitle {
+  .homepagetitles, .abouttitle {
     font-size: 72px;
   }
 }
 @media screen and (min-width: 1024px) {
-  .homepagetitles .abouttitle {
+  .homepagetitles, .abouttitle {
     font-size: 80px;
   }
 }
