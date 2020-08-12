@@ -13,6 +13,8 @@
   white-space: pre-line;
   -webkit-font-smoothing: antialiased;
   font-family: inherit;
+  margin-bottom: 300px;
+}
 }
 .work-headings {
   font-size: 18px;
@@ -107,7 +109,7 @@
 }
 @media screen and (min-width: 1650px) {
   .aboutdescription {
-    margin: -410px 60px 0px 810px;
+    margin: -410px 190px 0px 910px;
     }
 }
 
@@ -123,6 +125,7 @@
     }
   .imagecontainer {
     text-align: left;
+    padding: 100px 0px 0px 100px;
   }
 }
 @media screen and (min-width: 1360px) {
