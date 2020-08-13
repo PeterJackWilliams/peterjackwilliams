@@ -24,12 +24,12 @@
 
 @media screen and (max-width: 420px) {
   .abouttext {
-    font-size: 19px;
+    font-size: 14px;
   }
 }
 @media screen and (min-width: 420px) {
   .abouttext {
-    font-size: 19px;
+    font-size: 14px;
   }
 }
 @media screen and (min-width: 640px) {
@@ -58,12 +58,12 @@
 
 @media screen and (max-width: 420px) {
   .aboutdescription {
-    margin: 60px 10px 0px 10px;
+    margin: -940px 19px 0px 210px;
   }
 }
 @media screen and (min-width: 420px) {
   .aboutdescription {
-    margin: -1220px 40px 0px 290px;
+    margin: -940px 19px 0px 210px;
   }
 }
 @media screen and (min-width: 640px) {
@@ -93,10 +93,16 @@
     }
 }
 
+@media screen and (max-width: 420px) {
+  .about-image {
+  padding: 20px 0px 0px 30px;
+  max-width: 48%;
+  }
+}
 @media screen and (min-width: 420px) {
   .about-image {
   padding: 20px 0px 0px 30px;
-  max-width: 38%;
+  max-width: 48%;
   }
 }
 @media screen and (min-width: 640px) {
