@@ -137,6 +137,14 @@
   }
 }
 
+@media screen and (max-width: 420px) {
+  .homepagevideo {
+    max-width: 90%;
+    height: 212px;
+    width: 550px;
+    margin: auto;
+  }
+}
 @media screen and (min-width: 420px) {
   .homepagevideo {
     max-width: 90%;
