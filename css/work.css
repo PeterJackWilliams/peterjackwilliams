@@ -129,7 +129,7 @@
 }
 @media screen and (min-width: 1360px) {
   .homepageimage {
-    
+    width: 640px;
   }
 }
 @media screen and (min-width: 1920px) {
