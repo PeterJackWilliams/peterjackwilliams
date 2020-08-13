@@ -142,7 +142,7 @@
     max-width: 90%;
     height: 212px;
     width: 550px;
-    margin: auto;
+    margin-bottom: 70px;
   }
 }
 @media screen and (min-width: 420px) {
@@ -199,6 +199,11 @@
   }
 }
 
+@media screen and (max-width: 420px) {
+  .homepagetitles, .abouttitle {
+    font-size: 40px;
+  }
+}
 @media screen and (min-width: 420px) {
   .homepagetitles, .abouttitle {
     font-size: 40px;
@@ -326,7 +331,7 @@
 @media screen and (max-width: 420px) {
   .tagline {
     margin: -10px 23px 70px;
-    font-size: 22px;
+    font-size: 20px;
   }
 }
 @media screen and (min-width: 420px) {
