@@ -657,6 +657,11 @@
   }
 }
 
+@media screen and (max-width: 420px) {
+  .footer {
+    height: 55px;
+  }
+}
 @media screen and (min-width: 420px) {
   .footer {
     height: 55px;
@@ -668,6 +673,12 @@
   }
 }
 
+@media screen and (max-width: 420px) {
+  .footertext {
+    font-size: 14px;
+    margin: 16px 0px 0px 30px;
+  }
+}
 @media screen and (min-width: 420px) {
   .footertext {
     font-size: 14px;
