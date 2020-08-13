@@ -5,6 +5,8 @@
 }
 .imagecontainer {
   display: inline-grid;
+  margin-bottom: 350px;
+}
 }
 .abouttitle {
   font-family: caveat;
@@ -39,12 +41,12 @@
 }
 @media screen and (min-width: 768px) {
   .abouttext {
-    font-size: 30px;
+    font-size: 23px;
   }
 }
 @media screen and (min-width: 1024px) {
   .abouttext {
-    font-size: 30px;
+    font-size: 23px;
   }
 }
 @media screen and (min-width: 1360px) {
@@ -68,27 +70,23 @@
 }
 @media screen and (min-width: 768px) {
   .aboutdescription {
-    margin: 20px 40px;
+    margin: -1040px 30px 0px 360px;
   }
 }
 @media screen and (min-width: 1024px) {
   .aboutdescription {
-    margin: -348px 40px 0px 570px;
+    margin: -1730px 40px 0px 520px;
     }
 }
-@media screen and (min-width: 1192px) {
-  .aboutdescription {
-    margin: -400px 50px 0px 650px;
-    }
-}
+
 @media screen and (min-width: 1360px) {
   .aboutdescription {
-    margin: -400px 70px 0px 720px;
+    margin: -1880px 70px 0px 720px;
     }
 }
 @media screen and (min-width: 1650px) {
   .aboutdescription {
-    margin: -410px 190px 0px 910px;
+    margin: -2210px 190px 0px 910px;
     }
 }
 
@@ -103,7 +101,7 @@
     max-width: 40%;
     }
   .imagecontainer {
-    padding: 100px 0px 0px 100px;
+    padding: 100px 0px 0px 30px;
   }
 }
 @media screen and (min-width: 1360px) {
@@ -117,4 +115,15 @@
     max-width: 30%;
     margin-left: 90px;
     }
+}
+
+@media screen and (min-width: 768px) {
+  .imagecontainer {
+    padding: 40px 0px 0px 30px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .imagecontainer {
+    padding: 100px 0px 0px 30px;
+  }
 }
