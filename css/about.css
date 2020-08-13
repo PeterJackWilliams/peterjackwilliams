@@ -7,7 +7,6 @@
   display: inline-grid;
   margin-bottom: 350px;
 }
-}
 .abouttitle {
   font-family: caveat;
 }
@@ -16,7 +15,6 @@
   -webkit-font-smoothing: antialiased;
   font-family: inherit;
   margin-bottom: 300px;
-}
 }
 .work-headings {
   font-size: 18px;
@@ -95,14 +93,16 @@
     padding-bottom: 20px;
   }
 }
+@media screen and (min-width: 768px) {
+  .about-image {
+    max-width: 40%;
+    }
+}
 @media screen and (min-width: 1024px) {
   .about-image {
     margin-left: 40px;
     max-width: 40%;
     }
-  .imagecontainer {
-    padding: 100px 0px 0px 30px;
-  }
 }
 @media screen and (min-width: 1360px) {
   .about-image {
