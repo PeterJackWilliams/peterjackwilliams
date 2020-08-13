@@ -24,17 +24,17 @@
 
 @media screen and (max-width: 420px) {
   .abouttext {
-    font-size: 22px;
+    font-size: 19px;
   }
 }
 @media screen and (min-width: 420px) {
   .abouttext {
-    font-size: 22px;
+    font-size: 19px;
   }
 }
 @media screen and (min-width: 640px) {
   .abouttext {
-    font-size: 25px;
+    font-size: 19px;
   }
 }
 @media screen and (min-width: 768px) {
@@ -63,12 +63,17 @@
 }
 @media screen and (min-width: 420px) {
   .aboutdescription {
-    margin: 20px 40px 0px;
+    margin: -1220px 40px 0px 290px;
+  }
+}
+@media screen and (min-width: 640px) {
+  .aboutdescription {
+    margin: -1220px 40px 0px 290px;
   }
 }
 @media screen and (min-width: 768px) {
   .aboutdescription {
-    margin: -1040px 30px 0px 360px;
+  margin: -1390px 30px 0px 360px;
   }
 }
 @media screen and (min-width: 1024px) {
@@ -90,7 +95,14 @@
 
 @media screen and (min-width: 420px) {
   .about-image {
-    padding-bottom: 20px;
+  padding: 20px 0px 0px 30px;
+  max-width: 38%;
+  }
+}
+@media screen and (min-width: 640px) {
+  .about-image {
+    padding: 20px 0px 0px 30px;
+    max-width: 43%;
   }
 }
 @media screen and (min-width: 768px) {
