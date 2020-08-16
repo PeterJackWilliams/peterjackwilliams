@@ -27,12 +27,12 @@
 }
 @media screen and (min-width: 420px) {
   .abouttext {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 @media screen and (min-width: 640px) {
   .abouttext {
-    font-size: 19px;
+    font-size: 23px;
   }
 }
 @media screen and (min-width: 768px) {
@@ -56,38 +56,38 @@
 
 @media screen and (max-width: 420px) {
   .aboutdescription {
-    margin: -1380px 20px 0px 20px;
+    margin: 0px 20px 0px 20px;
   }
 }
 @media screen and (min-width: 420px) {
   .aboutdescription {
-    margin: -940px 19px 0px 210px;
+    margin: 0px 20px 0px 20px;
   }
 }
 @media screen and (min-width: 640px) {
   .aboutdescription {
-    margin: -1220px 40px 0px 290px;
+    margin: -20px 40px 0px 40px;
   }
 }
 @media screen and (min-width: 768px) {
   .aboutdescription {
-  margin: -1390px 30px 0px 360px;
+    margin: -20px 40px 0px 40px;
   }
 }
 @media screen and (min-width: 1024px) {
   .aboutdescription {
-    margin: -1730px 40px 0px 520px;
+    margin: -20px 40px 0px 40px;
     }
 }
 
 @media screen and (min-width: 1360px) {
   .aboutdescription {
-    margin: -1880px 70px 0px 720px;
+    margin: -20px 40px 0px 40px;
     }
 }
 @media screen and (min-width: 1650px) {
   .aboutdescription {
-    margin: -2210px 190px 0px 910px;
+    margin: -20px 40px 0px 40px;
     }
 }
 
@@ -135,18 +135,33 @@
 
 @media screen and (max-width: 420px) {
   .imagecontainer {
-    padding: 40px 0px 0px 30px;
-    display: -ms-inline-grid;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+}
+@media screen and (min-width: 420px) {
+  .imagecontainer {
+    text-align: center;
+    margin-bottom: 30px;
   }
 }
 @media screen and (min-width: 768px) {
   .imagecontainer {
-    padding: 40px 0px 0px 30px;
-    margin-bottom: 350px;
+    
   }
 }
 @media screen and (min-width: 1024px) {
   .imagecontainer {
-    padding: 100px 0px 0px 30px;
+    
+  }
+}
+@media screen and (min-width: 1360px) {
+  .imagecontainer {
+    
+  }
+}
+@media screen and (min-width: 1920px) {
+  .imagecontainer {
+    
   }
 }
