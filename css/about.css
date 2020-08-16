@@ -78,7 +78,6 @@
     margin: 40px 40px 0px 40px;
     }
 }
-
 @media screen and (min-width: 1360px) {
   .aboutdescription {
     margin: 50px 40px 0px 40px;
@@ -138,23 +137,8 @@
     margin-bottom: 30px;
   }
 }
-@media screen and (min-width: 768px) {
-  .imagecontainer {
-    
-  }
-}
-@media screen and (min-width: 1024px) {
-  .imagecontainer {
-    
-  }
-}
-@media screen and (min-width: 1360px) {
-  .imagecontainer {
-    
-  }
-}
 @media screen and (min-width: 1920px) {
   .imagecontainer {
-    
+    margin-bottom: 250px;
   }
 }
