@@ -4,7 +4,7 @@
   max-width: 60%;
 }
 .imagecontainer {
- 
+  margin-bottom: 250px;
 }
 .abouttitle {
   font-family: caveat;
@@ -13,7 +13,6 @@
   white-space: pre-line;
   -webkit-font-smoothing: antialiased;
   font-family: inherit;
-  margin-bottom: 300px;
 }
 .work-headings {
   font-size: 18px;
@@ -56,12 +55,12 @@
 
 @media screen and (max-width: 420px) {
   .aboutdescription {
-    margin: 0px 20px 0px 20px;
+    margin: -20px 20px 0px 20px;
   }
 }
 @media screen and (min-width: 420px) {
   .aboutdescription {
-    margin: 0px 20px 0px 20px;
+    margin: -20px 20px 0px 20px;
   }
 }
 @media screen and (min-width: 640px) {
@@ -71,46 +70,41 @@
 }
 @media screen and (min-width: 768px) {
   .aboutdescription {
-    margin: -20px 40px 0px 40px;
+    margin: 50px 40px 0px 40px;
   }
 }
 @media screen and (min-width: 1024px) {
   .aboutdescription {
-    margin: -20px 40px 0px 40px;
+    margin: 40px 40px 0px 40px;
     }
 }
 
 @media screen and (min-width: 1360px) {
   .aboutdescription {
-    margin: -20px 40px 0px 40px;
+    margin: 50px 40px 0px 40px;
     }
 }
 @media screen and (min-width: 1650px) {
   .aboutdescription {
-    margin: -20px 40px 0px 40px;
+    margin: 60px 40px 0px 750px;
     }
 }
 
 @media screen and (max-width: 420px) {
   .about-image {
     max-width: 60%;
-    margin: -20px 20px 10px 20px;
+    margin: -260px 20px 250px 20px;
   }
 }
 @media screen and (min-width: 420px) {
   .about-image {
     max-width: 60%;
-  }
-}
-@media screen and (min-width: 640px) {
-  .about-image {
-    padding: 20px 0px 0px 30px;
-    max-width: 43%;
+    margin: -260px 20px 250px 20px;
   }
 }
 @media screen and (min-width: 768px) {
   .about-image {
-    max-width: 40%;
+    max-width: 50%;
     }
 }
 @media screen and (min-width: 1024px) {
@@ -128,7 +122,7 @@
 @media screen and (min-width: 1650px) {
   .about-image {
     max-width: 30%;
-    margin-left: 90px;
+    margin: -810px 1110px 0px 0px;
     }
 }
 
