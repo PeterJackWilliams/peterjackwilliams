@@ -103,7 +103,7 @@
 .contactdetails {
   padding-bottom: 150px;
 }
-.contactmap {
+.mapcontact {
   margin-bottom: 70px;
 }
 .contactinfo {
@@ -236,43 +236,43 @@
 }
 
 @media screen and (max-width: 420px) {
-  .contactmap {
+  .mapcontact {
   width: 330px !important;
   height: 270px !important;
   }
 }
 @media screen and (min-width: 420px) {
-  .contactmap {
+  .mapcontact {
   width: 380px !important;
   height: 280px !important;
   }
 }
 @media screen and (min-width: 640px) {
-  .contactmap {
+  .mapcontact {
   width: 530px !important;
   height: 400px !important;
   }
 }
 @media screen and (min-width: 768px) {
-  .contactmap {
+  .mapcontact {
   width: 590px !important;
   height: 350px !important;
   }
 }
 @media screen and (min-width: 1024px) {
-  .contactmap {
+  .mapcontact {
   width: 750px !important;
   height: 320px !important;
   }
 }
 @media screen and (min-width: 1360px) {
-  .contactmap {
+  .mapcontact {
   width: 450px !important;
   height: 400px !important;
   }
 }
 @media screen and (min-width: 1920px) {
-  .contactmap {
+  .mapcontact {
   width: 600 !important; 
   height: 450 !important;
   }
