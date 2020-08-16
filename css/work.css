@@ -113,31 +113,6 @@
 
 /* media query */
 
-@media screen and (min-width: 420px) {
-  .homepageimage {
-    
-  }
-}
-@media screen and (min-width: 640px) {
-  .homepageimage {
-    
-  }
-}
-@media screen and (min-width: 768px) {
-  .homepageimage {
-    
-  }
-}
-@media screen and (min-width: 1024px) {
-  .homepageimage {
-    
-  }
-}
-@media screen and (min-width: 1360px) {
-  .homepageimage {
-    width: 640px;
-  }
-}
 @media screen and (min-width: 1920px) {
   .homepageimage {
     width: 860px;
