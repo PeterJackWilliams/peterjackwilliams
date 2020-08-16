@@ -4,8 +4,7 @@
   max-width: 60%;
 }
 .imagecontainer {
-  display: inline-grid;
-  margin-bottom: 350px;
+ 
 }
 .abouttitle {
   font-family: caveat;
@@ -137,7 +136,7 @@
 @media screen and (max-width: 420px) {
   .imagecontainer {
     padding: 40px 0px 0px 30px;
-    display: inline grid;
+    display: -ms-inline-grid;
   }
 }
 @media screen and (min-width: 768px) {
