@@ -57,7 +57,7 @@
 
 @media screen and (max-width: 420px) {
   .aboutdescription {
-    margin: -940px 19px 0px 210px;
+    margin: -1380px 20px 0px 20px;
   }
 }
 @media screen and (min-width: 420px) {
@@ -94,8 +94,8 @@
 
 @media screen and (max-width: 420px) {
   .about-image {
-  padding: 20px 0px 0px 30px;
-  max-width: 48%;
+    max-width: 90%;
+    margin: 440px 20px 250px 20px;
   }
 }
 @media screen and (min-width: 420px) {
@@ -137,6 +137,7 @@
 @media screen and (min-width: 768px) {
   .imagecontainer {
     padding: 40px 0px 0px 30px;
+    margin-bottom: 350px;
   }
 }
 @media screen and (min-width: 1024px) {
