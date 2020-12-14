@@ -97,6 +97,9 @@
   max-width: 600px;
   margin: 10px 40px;
 }
+.homepageimage {
+  max-width: 50%;
+}
 .homepageshowreel {
   text-align: center;
 }
@@ -155,8 +158,8 @@
 }
 @media screen and (min-width: 1360px) {
   .homepagevideo {
-    width: 1160px;
-    height: 650px;
+    width: 920px;
+    height: 490px;
   }
 }
 
@@ -203,7 +206,7 @@
 }
 @media screen and (min-width: 1024px) {
   .homepagetitles, .abouttitle {
-    font-size: 80px;
+    font-size: 40px;
   }
 }
 
@@ -294,20 +297,20 @@
 @media screen and (min-width: 768px) {
   .contactdetails {
   margin: 0px 0px 430px 0px;
-  font-size: 30px;
+  font-size: 24px;
   text-align: center;
 }
   }
 @media screen and (min-width: 1024px) {
   .contactdetails {
   margin: 0px 0px 430px 0px;
-  font-size: 30px;
+  font-size: 24px;
   }
 }
 @media screen and (min-width: 1360px) {
   .contactdetails {
     margin: -400px 0px 420px 540px;
-    font-size: 30px;
+    font-size: 24px;
   }
 }
 @media screen and (min-width: 1920px) {
@@ -349,7 +352,7 @@
 @media screen and (min-width: 1360px) {
   .tagline {
     margin: 80px 140px;
-    font-size: 30px;
+    font-size: 24px;
   }
 }
 @media screen and (min-width: 1920px) {
@@ -417,28 +420,28 @@
 @media screen and (min-width: 640px) {
   .jwclogo {
     position: relative;
-    max-width: 200px;
+    max-width: 150px;
     margin: -30px auto;
   }
 }
 @media screen and (min-width: 768px) {
   .jwclogo {
     position: relative;
-    max-width: 200px;
+    max-width: 150px;
     margin: -30px auto;
   }
 }
 @media screen and (min-width: 1024px) {
   .jwclogo {
     position: relative;
-    max-width: 200px;
+    max-width: 150px;
     margin: -30px auto;
   }
 }
 @media screen and (min-width: 1360px) {
   .jwclogo {
     position: relative;
-    max-width: 200px;
+    max-width: 150px;
     margin: -30px auto;
     }
 }
